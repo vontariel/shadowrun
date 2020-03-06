@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <character>
   <createdversion>5.205.101</createdversion>
-  <appversion>5.205.101</appversion>
+  <appversion>5.209.0.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>default.xml</settings>
   <metatype>Dwarf</metatype>
+  <metatypeid>08f2c9cc-f9f8-4f1a-9efb-63555af71788</metatypeid>
   <metatypebp>0</metatypebp>
   <metavariant />
+  <metavariantid>00000000-0000-0000-0000-000000000000</metavariantid>
   <metatypecategory>Metahuman</metatypecategory>
   <movement />
   <walk>2/1/0</walk>
@@ -258,6 +260,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Aeronautics Mechanic</name>
       </skill>
       <skill>
         <guid>02ebddec-079b-4737-8bb1-728febc9d9c6</guid>
@@ -267,6 +270,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Animal Handling</name>
       </skill>
       <skill>
         <guid>3023c9e1-de37-464d-99a3-009880a28993</guid>
@@ -276,6 +280,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Arcana</name>
       </skill>
       <skill>
         <guid>a9efebc8-02f4-463f-9a87-cf9b9f12fcd4</guid>
@@ -285,6 +290,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Archery</name>
       </skill>
       <skill>
         <guid>b8f1db0f-bd43-4d8d-8961-ee829b175a81</guid>
@@ -294,6 +300,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Armorer</name>
       </skill>
       <skill>
         <guid>204d8b34-00c4-4814-9654-7b20e865a110</guid>
@@ -303,6 +310,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Artisan</name>
       </skill>
       <skill>
         <guid>4ef1627f-437c-4c4e-ace3-dc476c95189d</guid>
@@ -312,6 +320,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>5</base>
         <notes />
+        <name>Automatics</name>
         <specs>
           <spec>
             <guid>d8cc3925-c7de-4b5d-9e92-4482cfee6309</guid>
@@ -328,6 +337,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Automotive Mechanic</name>
       </skill>
       <skill>
         <guid>22655376-bcd2-4d43-91d9-3d0f2d1750ee</guid>
@@ -337,6 +347,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Biotechnology</name>
       </skill>
       <skill>
         <guid>de813584-8630-428a-b9c2-74ff7a205204</guid>
@@ -346,6 +357,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Blades</name>
       </skill>
       <skill>
         <guid>cc4552b1-ed1e-4ff2-9d44-d3177d10a3ca</guid>
@@ -355,6 +367,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Chemistry</name>
       </skill>
       <skill>
         <guid>cdc36929-4e71-49cf-af01-78517c2b98a9</guid>
@@ -364,6 +377,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Clubs</name>
       </skill>
       <skill>
         <guid>6f10f5e1-ab51-4ac9-ad90-ebdde57f2bc7</guid>
@@ -373,6 +387,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>2</base>
         <notes />
+        <name>Computer</name>
       </skill>
       <skill>
         <guid>8252bdc8-df4a-4727-8af1-1413cf97b713</guid>
@@ -382,6 +397,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Con</name>
       </skill>
       <skill>
         <guid>5fc8c549-00e9-471e-a68f-c912213acc77</guid>
@@ -391,6 +407,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>2</base>
         <notes />
+        <name>Cybercombat</name>
       </skill>
       <skill>
         <guid>5534a74e-e535-4e5f-9906-8f0af8c22a13</guid>
@@ -400,6 +417,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Cybertechnology</name>
       </skill>
       <skill>
         <guid>6fc25e28-564d-4452-a412-c7649bb9afc2</guid>
@@ -409,6 +427,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Demolitions</name>
       </skill>
       <skill>
         <guid>40a44c26-6427-4eaa-9012-8bf4b5fc6c2e</guid>
@@ -418,6 +437,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Disguise</name>
       </skill>
       <skill>
         <guid>68c435db-cd80-4f08-96d0-a5adda9981c4</guid>
@@ -427,6 +447,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Diving</name>
       </skill>
       <skill>
         <guid>88937000-db8a-4b84-91b8-2a4cf0069d1e</guid>
@@ -436,6 +457,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>1</base>
         <notes />
+        <name>Electronic Warfare</name>
       </skill>
       <skill>
         <guid>f41dc7e9-4128-46d5-8fc4-78950f1679ca</guid>
@@ -445,6 +467,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Escape Artist</name>
       </skill>
       <skill>
         <guid>e9a1015c-a692-4b70-9a0b-b3e766d211be</guid>
@@ -454,6 +477,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>2</base>
         <notes />
+        <name>Etiquette</name>
       </skill>
       <skill>
         <guid>35193d2f-30a9-4228-807d-75765bcbe040</guid>
@@ -463,6 +487,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>First Aid</name>
       </skill>
       <skill>
         <guid>a2e814d0-c255-461b-8123-f2609946b51f</guid>
@@ -472,6 +497,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Flight</name>
       </skill>
       <skill>
         <guid>e027c7a7-c2b0-4f12-adff-39dcf75f3dcc</guid>
@@ -481,6 +507,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Forgery</name>
       </skill>
       <skill>
         <guid>61b1d9c6-8f06-46bd-8cf0-1af4883856d7</guid>
@@ -490,6 +517,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Free-Fall</name>
       </skill>
       <skill>
         <guid>4c3e4843-f1fd-470b-916d-4a478a8bf8b8</guid>
@@ -499,6 +527,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Gunnery</name>
       </skill>
       <skill>
         <guid>0b8c0865-6b52-47ad-a1e9-c0f50f622e99</guid>
@@ -508,6 +537,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Gymnastics</name>
       </skill>
       <skill>
         <guid>fe1eee69-a7d1-44f6-aa76-aa89caef402f</guid>
@@ -517,6 +547,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>2</base>
         <notes />
+        <name>Hacking</name>
         <specs>
           <spec>
             <guid>8fc24114-abcd-42f5-8754-c44bce571824</guid>
@@ -533,6 +564,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>1</base>
         <notes />
+        <name>Hardware</name>
         <specs>
           <spec>
             <guid>830a72b4-67bb-439e-8d92-8a2d6a3c5bbf</guid>
@@ -549,6 +581,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Heavy Weapons</name>
       </skill>
       <skill>
         <guid>9b1d3fe9-1dae-4138-8966-2c7b16e421fd</guid>
@@ -558,6 +591,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Impersonation</name>
       </skill>
       <skill>
         <guid>96c6754e-f677-4ae5-a193-9921919663fa</guid>
@@ -567,6 +601,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Industrial Mechanic</name>
       </skill>
       <skill>
         <guid>6bb493b9-8731-42f2-91a9-a23277a67121</guid>
@@ -576,6 +611,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Instruction</name>
       </skill>
       <skill>
         <guid>0516d318-0ce8-46b7-b01a-ff4d1c080095</guid>
@@ -585,6 +621,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Intimidation</name>
       </skill>
       <skill>
         <guid>99f001f3-e601-49da-b676-330b869cc688</guid>
@@ -594,6 +631,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Leadership</name>
       </skill>
       <skill>
         <guid>8b1a86c7-b7a7-46f1-9b6c-0a72a1a0a4d0</guid>
@@ -603,6 +641,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Locksmith</name>
       </skill>
       <skill>
         <guid>11e29b2b-ab59-447b-b18d-fb796f4c2519</guid>
@@ -612,6 +651,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Longarms</name>
       </skill>
       <skill>
         <guid>683efdfc-3352-4251-af8b-df142e4c85b4</guid>
@@ -621,6 +661,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Medicine</name>
       </skill>
       <skill>
         <guid>136a152c-d564-4dd2-8bf3-19a73c7607d8</guid>
@@ -630,6 +671,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Nautical Mechanic</name>
       </skill>
       <skill>
         <guid>c158e65c-e5c6-4289-b9b0-17ba6a0ad7f8</guid>
@@ -639,6 +681,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Navigation</name>
       </skill>
       <skill>
         <guid>9dfb9976-41cd-4d65-a741-4c10c103cc33</guid>
@@ -648,6 +691,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Negotiation</name>
       </skill>
       <skill>
         <guid>c91fa49c-a0b9-4071-a3b5-810f27ea095b</guid>
@@ -657,6 +701,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>1</base>
         <notes />
+        <name>Palming</name>
       </skill>
       <skill>
         <guid>afa54ae6-07e4-4f8c-aafb-44bd1ced9ca4</guid>
@@ -666,6 +711,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Perception</name>
       </skill>
       <skill>
         <guid>263926f6-b4e0-4469-bca4-e45822efbd7a</guid>
@@ -675,6 +721,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Performance</name>
       </skill>
       <skill>
         <guid>6d741728-1490-4601-82f7-d58cf568a447</guid>
@@ -684,6 +731,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Pilot Aerospace</name>
       </skill>
       <skill>
         <guid>4a3f3590-dae6-4e19-873f-3fab96ae99b1</guid>
@@ -693,6 +741,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Pilot Aircraft</name>
       </skill>
       <skill>
         <guid>97838641-6866-4894-ae6f-d624807d450d</guid>
@@ -702,6 +751,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Pilot Ground Craft</name>
       </skill>
       <skill>
         <guid>481fabb7-4314-44d8-8aac-af68f553c633</guid>
@@ -711,6 +761,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Pilot Walker</name>
       </skill>
       <skill>
         <guid>0329c7aa-b88a-4849-be72-7d90604e0e70</guid>
@@ -720,6 +771,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Pilot Watercraft</name>
       </skill>
       <skill>
         <guid>b190868c-25b4-436e-a08f-7b8dc946264b</guid>
@@ -729,6 +781,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Pistols</name>
       </skill>
       <skill>
         <guid>069ca750-0bc3-40d4-ba24-c17d3af2a13d</guid>
@@ -738,6 +791,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Running</name>
       </skill>
       <skill>
         <guid>8a396eb3-e31f-4c27-8f34-5f53d7bf6d99</guid>
@@ -747,6 +801,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>2</base>
         <notes />
+        <name>Sneaking</name>
       </skill>
       <skill>
         <guid>2e78b5be-f5d3-425a-a184-3ca1fd97d56b</guid>
@@ -756,6 +811,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>2</base>
         <notes />
+        <name>Software</name>
         <specs>
           <spec>
             <guid>b9c6ed66-146a-4c62-9d27-f087a2056811</guid>
@@ -772,6 +828,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Survival</name>
       </skill>
       <skill>
         <guid>73c0e251-8c10-493b-a42b-7bdf844bcf41</guid>
@@ -781,6 +838,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Swimming</name>
       </skill>
       <skill>
         <guid>5785a920-bee1-43a6-95d0-0ac772b506f5</guid>
@@ -790,6 +848,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Throwing Weapons</name>
       </skill>
       <skill>
         <guid>f9c3d43d-8971-47e9-9839-1d1394919c5d</guid>
@@ -799,6 +858,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Tracking</name>
       </skill>
       <skill>
         <guid>e3e933bd-e3a8-408c-9376-5d8d4b930753</guid>
@@ -808,6 +868,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <karma>0</karma>
         <base>0</base>
         <notes />
+        <name>Unarmed Combat</name>
       </skill>
     </skills>
     <knoskills>
@@ -1077,6 +1138,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <damage>0</damage>
       <rating>0</rating>
       <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <armormods />
       <gears>
@@ -1160,6 +1222,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <damage>0</damage>
       <rating>0</rating>
       <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <armormods />
       <bonus />
@@ -1188,6 +1251,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <damage>0</damage>
       <rating>0</rating>
       <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <armormods />
       <bonus />
@@ -1216,6 +1280,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <damage>0</damage>
       <rating>0</rating>
       <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <armormods />
       <bonus />
@@ -1244,6 +1309,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <damage>0</damage>
       <rating>0</rating>
       <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <armormods />
       <bonus />
@@ -1272,6 +1338,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <damage>0</damage>
       <rating>0</rating>
       <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <armormods />
       <bonus />
@@ -1300,6 +1367,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <damage>0</damage>
       <rating>0</rating>
       <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <armormods />
       <bonus />
@@ -1328,6 +1396,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <damage>0</damage>
       <rating>0</rating>
       <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <armormods />
       <bonus />
@@ -1356,6 +1425,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <damage>0</damage>
       <rating>0</rating>
       <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <armormods>
         <armormod>
@@ -1368,6 +1438,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <gearcapacity />
           <maxrating>0</maxrating>
           <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
           <avail>0</avail>
           <cost>0</cost>
           <bonus />
@@ -1393,6 +1464,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <gearcapacity />
           <maxrating>0</maxrating>
           <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
           <avail>0</avail>
           <cost>0</cost>
           <bonus />
@@ -1447,6 +1519,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <damage>0</damage>
       <rating>0</rating>
       <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <armormods />
       <bonus />
@@ -1483,9 +1556,13 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <avail>0</avail>
       <cost>0</cost>
       <useskill />
+      <useskillspec />
       <range />
       <alternaterange />
       <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
       <source>SR5</source>
@@ -1503,6 +1580,8 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <location />
       <notes />
       <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
       <active>False</active>
       <homenode>False</homenode>
       <devicerating />
@@ -1555,9 +1634,13 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <avail>0</avail>
       <cost>0</cost>
       <useskill />
+      <useskillspec />
       <range />
       <alternaterange />
       <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
       <source>SR5</source>
@@ -1582,6 +1665,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <rc />
           <maxrating>0</maxrating>
           <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
           <rcgroup>0</rcgroup>
           <rcdeployable>False</rcdeployable>
           <specialmodification>False</specialmodification>
@@ -1713,6 +1797,9 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <notes />
           <discountedcost>False</discountedcost>
           <addmode />
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
@@ -1727,6 +1814,8 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <location />
       <notes />
       <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
       <active>False</active>
       <homenode>False</homenode>
       <devicerating />
@@ -1779,9 +1868,13 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <avail>6R</avail>
       <cost>700</cost>
       <useskill />
+      <useskillspec />
       <range />
       <alternaterange />
       <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
       <source>GH3</source>
@@ -1806,6 +1899,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <rc />
           <maxrating>0</maxrating>
           <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
           <rcgroup>0</rcgroup>
           <rcdeployable>False</rcdeployable>
           <specialmodification>False</specialmodification>
@@ -1829,6 +1923,9 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <notes />
           <discountedcost>False</discountedcost>
           <addmode />
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
@@ -1848,6 +1945,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <rc />
           <maxrating>0</maxrating>
           <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
           <rcgroup>0</rcgroup>
           <rcdeployable>False</rcdeployable>
           <specialmodification>False</specialmodification>
@@ -1871,6 +1969,9 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <notes />
           <discountedcost>False</discountedcost>
           <addmode />
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
@@ -1885,6 +1986,8 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <location />
       <notes />
       <discountedcost>False</discountedcost>
+      <weaponslots>Stock/Side/Internal/Barrel/Top</weaponslots>
+      <doubledcostweaponslots />
       <active>False</active>
       <homenode>False</homenode>
       <devicerating />
@@ -1930,6 +2033,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <rating>0</rating>
       <minrating />
       <maxrating />
+      <ratinglabel>String_Rating</ratinglabel>
       <subsystems>Cyber Implant Weapon Accessory</subsystems>
       <wirelesson>False</wirelesson>
       <grade>Standard</grade>
@@ -1978,6 +2082,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <rating>0</rating>
           <minrating />
           <maxrating />
+          <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
           <wirelesson>False</wirelesson>
           <grade>Standard</grade>
@@ -2047,6 +2152,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <rating>0</rating>
           <minrating />
           <maxrating />
+          <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
           <wirelesson>False</wirelesson>
           <grade>Standard</grade>
@@ -2116,6 +2222,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <rating>0</rating>
           <minrating />
           <maxrating />
+          <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
           <wirelesson>False</wirelesson>
           <grade>Standard</grade>
@@ -2208,6 +2315,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <rating>1</rating>
       <minrating />
       <maxrating>3</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
       <subsystems />
       <wirelesson>False</wirelesson>
       <grade>Standard</grade>
@@ -2282,6 +2390,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <rating>0</rating>
       <minrating />
       <maxrating />
+      <ratinglabel>String_Rating</ratinglabel>
       <subsystems />
       <wirelesson>True</wirelesson>
       <grade>Standard</grade>
@@ -3144,9 +3253,10 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <bp>3</bp>
       <implemented>True</implemented>
       <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
       <canbuywithspellpoints>False</canbuywithspellpoints>
-      <metagenetic>False</metagenetic>
+      <metagenic>False</metagenic>
       <print>True</print>
       <qualitytype>Positive</qualitytype>
       <qualitysource>Metatype</qualitysource>
@@ -3168,9 +3278,10 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <bp>8</bp>
       <implemented>True</implemented>
       <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
       <canbuywithspellpoints>False</canbuywithspellpoints>
-      <metagenetic>False</metagenetic>
+      <metagenic>False</metagenic>
       <print>True</print>
       <qualitytype>Positive</qualitytype>
       <qualitysource>Metatype</qualitysource>
@@ -3200,9 +3311,10 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <bp>5</bp>
       <implemented>True</implemented>
       <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
       <canbuywithspellpoints>False</canbuywithspellpoints>
-      <metagenetic>False</metagenetic>
+      <metagenic>False</metagenic>
       <print>True</print>
       <qualitytype>Positive</qualitytype>
       <qualitysource>Selected</qualitysource>
@@ -3224,9 +3336,10 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <bp>10</bp>
       <implemented>True</implemented>
       <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
       <canbuywithspellpoints>False</canbuywithspellpoints>
-      <metagenetic>False</metagenetic>
+      <metagenic>False</metagenic>
       <print>True</print>
       <qualitytype>Positive</qualitytype>
       <qualitysource>Selected</qualitysource>
@@ -3249,9 +3362,10 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <bp>-8</bp>
       <implemented>True</implemented>
       <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
       <canbuywithspellpoints>False</canbuywithspellpoints>
-      <metagenetic>False</metagenetic>
+      <metagenic>False</metagenic>
       <print>True</print>
       <qualitytype>Negative</qualitytype>
       <qualitysource>Selected</qualitysource>
@@ -3273,9 +3387,10 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <bp>-12</bp>
       <implemented>True</implemented>
       <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
       <canbuywithspellpoints>False</canbuywithspellpoints>
-      <metagenetic>False</metagenetic>
+      <metagenic>False</metagenic>
       <print>True</print>
       <qualitytype>Negative</qualitytype>
       <qualitysource>Selected</qualitysource>
@@ -3298,9 +3413,10 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <bp>-2</bp>
       <implemented>True</implemented>
       <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
       <canbuywithspellpoints>False</canbuywithspellpoints>
-      <metagenetic>False</metagenetic>
+      <metagenic>False</metagenic>
       <print>True</print>
       <qualitytype>Negative</qualitytype>
       <qualitysource>Selected</qualitysource>
@@ -3322,9 +3438,10 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <bp>6</bp>
       <implemented>True</implemented>
       <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
       <canbuywithspellpoints>False</canbuywithspellpoints>
-      <metagenetic>False</metagenetic>
+      <metagenic>False</metagenic>
       <print>True</print>
       <qualitytype>Positive</qualitytype>
       <qualitysource>Selected</qualitysource>
@@ -3347,9 +3464,10 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <bp>4</bp>
       <implemented>True</implemented>
       <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
       <doublecareer>True</doublecareer>
       <canbuywithspellpoints>False</canbuywithspellpoints>
-      <metagenetic>False</metagenetic>
+      <metagenic>False</metagenic>
       <print>True</print>
       <qualitytype>Positive</qualitytype>
       <qualitysource>Selected</qualitysource>
@@ -3373,6 +3491,58 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       </firstlevelbonus>
       <notes />
     </quality>
+    <quality>
+      <sourceid>d9f0f912-fc95-4267-bed2-8d3fcc67846b</sourceid>
+      <guid>f871b983-657e-4dac-b790-f702fde3362d</guid>
+      <name>Designated Omega</name>
+      <extra />
+      <bp>-5</bp>
+      <implemented>True</implemented>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>CA</source>
+      <page>152</page>
+      <sourcename />
+      <bonus>
+        <specificskill>
+          <name>Leadership</name>
+          <bonus>-2</bonus>
+        </specificskill>
+      </bonus>
+      <firstlevelbonus />
+      <notes />
+    </quality>
+    <quality>
+      <sourceid>1ae3ce29-5249-4477-952a-6074a212e197</sourceid>
+      <guid>ced9899f-04d5-46bc-a227-4f6a6073913e</guid>
+      <name>Reduced Sense (Smell)</name>
+      <extra />
+      <bp>-2</bp>
+      <implemented>True</implemented>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>159</page>
+      <sourcename />
+      <bonus>
+      </bonus>
+      <firstlevelbonus />
+      <notes />
+    </quality>
   </qualities>
   <lifestyles>
     <lifestyle>
@@ -3381,6 +3551,7 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <name>remiza</name>
       <cost>5000</cost>
       <dice>4</dice>
+      <lp>4</lp>
       <baselifestyle>Medium</baselifestyle>
       <multiplier>100</multiplier>
       <months>1</months>
@@ -3389,9 +3560,12 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <area>0</area>
       <comforts>0</comforts>
       <security>1</security>
-      <basearea>0</basearea>
-      <basecomforts>0</basecomforts>
-      <basesecurity>0</basesecurity>
+      <basearea>4</basearea>
+      <basecomforts>3</basecomforts>
+      <basesecurity>3</basesecurity>
+      <maxarea>5</maxarea>
+      <maxcomforts>4</maxcomforts>
+      <maxsecurity>4</maxsecurity>
       <costforearea>0</costforearea>
       <costforcomforts>0</costforcomforts>
       <costforsecurity>0</costforsecurity>
@@ -3415,6 +3589,12 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <multiplier>0</multiplier>
           <basemultiplier>0</basemultiplier>
           <lp>2</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
           <contributetolimit>True</contributetolimit>
           <print>True</print>
           <lifestylequalitytype>Entertainment</lifestylequalitytype>
@@ -3436,6 +3616,12 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <multiplier>0</multiplier>
           <basemultiplier>0</basemultiplier>
           <lp>1</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
           <contributetolimit>True</contributetolimit>
           <print>True</print>
           <lifestylequalitytype>Entertainment</lifestylequalitytype>
@@ -3457,6 +3643,12 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <multiplier>0</multiplier>
           <basemultiplier>0</basemultiplier>
           <lp>2</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
           <contributetolimit>True</contributetolimit>
           <print>True</print>
           <lifestylequalitytype>Entertainment</lifestylequalitytype>
@@ -3478,6 +3670,12 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <multiplier>0</multiplier>
           <basemultiplier>0</basemultiplier>
           <lp>2</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
           <contributetolimit>True</contributetolimit>
           <print>True</print>
           <lifestylequalitytype>Entertainment</lifestylequalitytype>
@@ -3499,6 +3697,12 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <multiplier>0</multiplier>
           <basemultiplier>0</basemultiplier>
           <lp>2</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
           <contributetolimit>True</contributetolimit>
           <print>True</print>
           <lifestylequalitytype>Entertainment</lifestylequalitytype>
@@ -3522,6 +3726,12 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <multiplier>0</multiplier>
           <basemultiplier>0</basemultiplier>
           <lp>1</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
           <contributetolimit>True</contributetolimit>
           <print>True</print>
           <lifestylequalitytype>Entertainment</lifestylequalitytype>
@@ -3543,6 +3753,12 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
           <multiplier>0</multiplier>
           <basemultiplier>0</basemultiplier>
           <lp>1</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
           <contributetolimit>True</contributetolimit>
           <print>True</print>
           <lifestylequalitytype>Entertainment</lifestylequalitytype>
@@ -6402,25 +6618,33 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <order>0</order>
       <notes />
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>Leadership</improvedname>
+      <sourcename>f871b983-657e-4dac-b790-f702fde3362d</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>-2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Skill</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
   </improvements>
   <drugs />
   <mentorspirits />
   <expenses>
-    <expense>
-      <guid>dc70a1cb-6d6e-40bb-b102-bd20646920b8</guid>
-      <date>2019-06-15T18:47:14</date>
-      <amount>1683.71428571428571428571429</amount>
-      <reason>Starting Nuyen</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>ManualAdd</nuyentype>
-        <objectid />
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
     <expense>
       <guid>bedd1e0d-c348-40c1-8a90-d6bb24cff035</guid>
       <date>2019-06-15T18:47:14</date>
@@ -6431,6 +6655,21 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>dc70a1cb-6d6e-40bb-b102-bd20646920b8</guid>
+      <date>2019-06-15T18:47:14</date>
+      <amount>1683.71428571428571428571429</amount>
+      <reason>Starting Nuyen</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
         <objectid />
         <qty>0</qty>
         <extra />
@@ -6677,6 +6916,36 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>32ab6982-e9ab-4b22-a10d-b79825c38e3f</guid>
+      <date>2020-03-07T00:29:58</date>
+      <amount>0</amount>
+      <reason>Gained Negative Quality Designated Omega</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>AddQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>f871b983-657e-4dac-b790-f702fde3362d</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>65df9002-b3ba-421b-bf01-4630d6bd07e9</guid>
+      <date>2020-03-07T00:30:54</date>
+      <amount>0</amount>
+      <reason>Gained Negative Quality Reduced Sense (Smell)</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>AddQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>ced9899f-04d5-46bc-a227-4f6a6073913e</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <gearlocations />
   <armorlocations />
@@ -6690,9 +6959,24 @@ Zazwyczaj siedzi na uboczu, siedzi w salonie ale dłubie coś w sprzęcie czy w 
     <source>RG</source>
     <source>GH3</source>
     <source>HKS</source>
+    <source>CA</source>
     <source>SFB</source>
     <source>DT</source>
     <source>R5</source>
   </sources>
-  <customdatadirectorynames />
+  <customdatadirectorynames>
+    <directoryname>Adapsin Applied as Multiplier, Not Grade</directoryname>
+    <directoryname>Bone Lacing Adds to Body</directoryname>
+    <directoryname>Cyberlimb Customisation Does Not Incur Grade Costs</directoryname>
+    <directoryname>Kill Code Sprite Optional Powers</directoryname>
+    <directoryname>Trolls Have Natural Weapon Horns</directoryname>
+  </customdatadirectorynames>
+  <calculatedvalues>
+    <!--these values are not loaded and only stored here for third parties, who parse this files (to not have to calculate them themselves)-->
+    <physicalcm>10</physicalcm>
+    <physicalcmthresholdoffset>0</physicalcmthresholdoffset>
+    <physicalcmoverflow>4</physicalcmoverflow>
+    <stuncm>11</stuncm>
+    <stuncmthresholdoffset>0</stuncmthresholdoffset>
+  </calculatedvalues>
 </character>
