@@ -52,7 +52,7 @@ Uciekinier.</background>
   <playername>Vontariel</playername>
   <gamenotes />
   <primaryarm>Left</primaryarm>
-  <karma>3</karma>
+  <karma>11</karma>
   <special>3</special>
   <totalspecial>3</totalspecial>
   <totalattributes>20</totalattributes>
@@ -69,7 +69,7 @@ Uciekinier.</background>
   <burntstreetcred>0</burntstreetcred>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>3634.000</nuyen>
+  <nuyen>7490.500</nuyen>
   <startingnuyen>275000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -1179,7 +1179,7 @@ Walaszkowie utrzymali sie w "zawodzie", jednak zmienil sie im nieco profil i tea
       <age>Middle-Aged</age>
       <contacttype>Shadow Services</contacttype>
       <preferredpayment>Service (Shadowrunner Job)</preferredpayment>
-      <hobbiesvice>Animals (Paracritters)</hobbiesvice>
+      <hobbiesvice>Bad Habit (Dream Chips)</hobbiesvice>
       <personallife>In Relationship</personallife>
       <type>Contact</type>
       <file />
@@ -1285,7 +1285,7 @@ Zaplate preferuje w telesmach, choć nie gardzi nuyenami. </notes>
       <personallife>Single</personallife>
       <type>Contact</type>
       <file>C:\Users\Vontariel\Desktop\shadowrun\chum\postaci\Grizzly.chum5</file>
-      <relative>../postaci/Grizzly.chum5</relative>
+      <relative />
       <notes>Anrold "Grizzly" Czarnociemny to znajomy jeszcze z czasów służby wojskowej. Troll, gora miesa, potwor w walce wrecz. Wyjatkowo silny nawet jak na trolla. Niejednemu piesciami (wzmocnionymi o 30cm ostrza wystajace z klykci) wytlumaczyl bledy zyciowe. Vincent to jego jeden z najlepszych przyjaciol.
 
 Ciagnie sie za nim wiele duchow przeszlosci - kazdego dnia sam siebie rani, by nie zapomniec o swoich dzialaniach wojennych. Poprzysiagl nigdy nie skrzywdzic juz nikogo, kto by na to sobie nie zasluzyl. 
@@ -1344,7 +1344,7 @@ Do konca wierzyl w niewinnosc Vincenta. Na znak protestu, na jego skazanie, odsz
       <guid>00000000-0000-0000-0000-000000000000</guid>
       <name>Fault Sprite</name>
       <crittername>Gizmo</crittername>
-      <services>6</services>
+      <services>5</services>
       <force>6</force>
       <bound>True</bound>
       <fettered>False</fettered>
@@ -2273,6 +2273,78 @@ Wygodne adidaski</notes>
       </accessories>
       <location />
       <notes>Składany do ładnej, srebrnej walizki.</notes>
+      <discountedcost>False</discountedcost>
+      <weaponslots>Stock/Side/Internal/Barrel/Top/Under</weaponslots>
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>False</wirelesson>
+      <sortorder>0</sortorder>
+    </weapon>
+    <weapon>
+      <sourceid>c2c0e756-a099-4f9d-b6bb-18f412d670a3</sourceid>
+      <guid>2e0c96d8-1a83-4ce7-8c42-19e1acdd21e9</guid>
+      <name>Defiance T-250</name>
+      <category>Shotguns</category>
+      <type>Ranged</type>
+      <spec />
+      <spec2 />
+      <reach>0</reach>
+      <damage>10P</damage>
+      <ap>-1</ap>
+      <mode>SS/SA</mode>
+      <rc>0</rc>
+      <ammo>5(m)</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoname />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>Skill</firingmode>
+      <clips />
+      <conceal>6</conceal>
+      <avail>4R</avail>
+      <cost>450</cost>
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange>Shotguns (flechette)</alternaterange>
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <source>SR5</source>
+      <page>429</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>4</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
       <discountedcost>False</discountedcost>
       <weaponslots>Stock/Side/Internal/Barrel/Top/Under</weaponslots>
       <doubledcostweaponslots />
@@ -3894,7 +3966,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>True</active>
       <homenode>False</homenode>
-      <sortorder>8</sortorder>
+      <sortorder>20</sortorder>
     </gear>
     <gear>
       <sourceid>baa9ba27-f93b-48da-91b7-cfcce0ba274d</sourceid>
@@ -3948,7 +4020,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>4</sortorder>
+      <sortorder>17</sortorder>
     </gear>
     <gear>
       <sourceid>84bb92e7-ce13-4eb6-bf9e-15bf3887469c</sourceid>
@@ -4002,7 +4074,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>3</sortorder>
+      <sortorder>16</sortorder>
     </gear>
     <gear>
       <sourceid>8751915f-0573-4c99-b97e-cb74b3788a8a</sourceid>
@@ -4056,7 +4128,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>2</sortorder>
+      <sortorder>15</sortorder>
     </gear>
     <gear>
       <sourceid>cb405ce6-6133-4b34-8d71-60387e78dd0c</sourceid>
@@ -4110,7 +4182,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>1</sortorder>
+      <sortorder>14</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -4252,7 +4324,7 @@ This quality can only be taken during character creation.</notes>
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>3</sortorder>
+          <sortorder>5</sortorder>
         </gear>
         <gear>
           <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
@@ -4306,7 +4378,7 @@ This quality can only be taken during character creation.</notes>
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>2</sortorder>
+          <sortorder>4</sortorder>
         </gear>
         <gear>
           <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
@@ -4360,7 +4432,7 @@ This quality can only be taken during character creation.</notes>
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>1</sortorder>
+          <sortorder>3</sortorder>
         </gear>
         <gear>
           <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
@@ -4414,7 +4486,7 @@ This quality can only be taken during character creation.</notes>
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </gear>
         <gear>
           <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
@@ -4468,7 +4540,7 @@ This quality can only be taken during character creation.</notes>
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </gear>
       </children>
       <location />
@@ -4489,7 +4561,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>6</sortorder>
+      <sortorder>18</sortorder>
     </gear>
     <gear>
       <sourceid>5deb8e1d-98bf-4cd4-9dce-b74d67546a1d</sourceid>
@@ -4597,7 +4669,60 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>7</sortorder>
+      <sortorder>19</sortorder>
+    </gear>
+    <gear>
+      <sourceid>b9812675-b4c3-43ce-b564-c47a5f66b0fc</sourceid>
+      <guid>50140a2e-7eca-43a4-9815-26a19b7870c5</guid>
+      <name>Restraint, Metal</name>
+      <category>Security Devices</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>5</qty>
+      <avail>0</avail>
+      <cost>20</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
+      <source>SR5</source>
+      <page>447</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>8</sortorder>
     </gear>
     <gear>
       <sourceid>0c8d16cb-6e96-4d95-8454-104a36091cf9</sourceid>
@@ -4609,7 +4734,7 @@ This quality can only be taken during character creation.</notes>
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>85</qty>
+      <qty>100</qty>
       <avail>2R</avail>
       <costfor>10</costfor>
       <cost>25</cost>
@@ -4655,7 +4780,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </gear>
     <gear>
       <sourceid>b2a0b340-c793-4322-8422-8b03d18a6fae</sourceid>
@@ -4709,7 +4834,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
     </gear>
     <gear>
       <sourceid>f486f414-ee2c-46db-92ea-c682861d8fe0</sourceid>
@@ -4767,7 +4892,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>3</sortorder>
     </gear>
     <gear>
       <sourceid>1315cecd-1c13-4d69-9828-a3ea535675da</sourceid>
@@ -4779,7 +4904,7 @@ This quality can only be taken during character creation.</notes>
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>99</qty>
+      <qty>100.0</qty>
       <avail>9F</avail>
       <costfor>10</costfor>
       <cost>80</cost>
@@ -4825,7 +4950,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>4</sortorder>
     </gear>
     <gear>
       <sourceid>c4da5448-0069-447c-b3e4-4147e6bf4ca7</sourceid>
@@ -4881,7 +5006,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>5</sortorder>
     </gear>
     <gear>
       <sourceid>2633cf38-90a6-4843-b475-e3ee1132fb5f</sourceid>
@@ -4936,7 +5061,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>6</sortorder>
     </gear>
     <gear>
       <sourceid>53c0b4cc-b209-4db4-bb0d-6710b3f4349a</sourceid>
@@ -4948,7 +5073,7 @@ This quality can only be taken during character creation.</notes>
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>8</qty>
+      <qty>100</qty>
       <avail>0</avail>
       <costfor>10</costfor>
       <cost>5</cost>
@@ -4990,60 +5115,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
-    </gear>
-    <gear>
-      <sourceid>b9812675-b4c3-43ce-b564-c47a5f66b0fc</sourceid>
-      <guid>50140a2e-7eca-43a4-9815-26a19b7870c5</guid>
-      <name>Restraint, Metal</name>
-      <category>Security Devices</category>
-      <capacity />
-      <armorcapacity />
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <qty>5</qty>
-      <avail>0</avail>
-      <cost>20</cost>
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus>
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
-      <source>SR5</source>
-      <page>447</page>
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>7</sortorder>
     </gear>
     <gear>
       <sourceid>7abaa077-48ee-4a28-9a10-6dff788ccb1d</sourceid>
@@ -5096,7 +5168,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>9</sortorder>
     </gear>
     <gear>
       <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
@@ -5150,7 +5222,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>10</sortorder>
     </gear>
     <gear>
       <sourceid>c4da5448-0069-447c-b3e4-4147e6bf4ca7</sourceid>
@@ -5206,7 +5278,7 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>11</sortorder>
     </gear>
     <gear>
       <sourceid>89a0f3c9-5ef6-41cd-981f-4ac690ee2ab3</sourceid>
@@ -5378,7 +5450,7 @@ This quality can only be taken during character creation.</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
             <gear>
               <sourceid>b19f022c-c854-4a3f-8b7a-d2a2532a2680</sourceid>
@@ -5431,7 +5503,7 @@ This quality can only be taken during character creation.</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>2</sortorder>
             </gear>
             <gear>
               <sourceid>fa6fa434-107b-4f36-a138-f98b044dae76</sourceid>
@@ -5484,7 +5556,7 @@ This quality can only be taken during character creation.</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>3</sortorder>
             </gear>
             <gear>
               <sourceid>5146abd2-6ab2-4aee-b523-a63d5c5ab93b</sourceid>
@@ -5537,7 +5609,7 @@ This quality can only be taken during character creation.</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>4</sortorder>
             </gear>
             <gear>
               <sourceid>82946de2-876c-46d8-a6ec-744a38257668</sourceid>
@@ -5590,7 +5662,7 @@ This quality can only be taken during character creation.</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>5</sortorder>
             </gear>
             <gear>
               <sourceid>f9995732-7d00-496c-8407-a3dc0e1a82ff</sourceid>
@@ -5643,7 +5715,7 @@ This quality can only be taken during character creation.</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>6</sortorder>
             </gear>
             <gear>
               <sourceid>1d6f985e-5cf0-463d-a445-fafdd387f301</sourceid>
@@ -5696,7 +5768,7 @@ This quality can only be taken during character creation.</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>7</sortorder>
             </gear>
             <gear>
               <sourceid>5d69d002-c33d-4d0f-9c4d-d78db4d78e5d</sourceid>
@@ -5749,7 +5821,7 @@ This quality can only be taken during character creation.</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>8</sortorder>
             </gear>
             <gear>
               <sourceid>786682fb-cbd5-4ee8-969a-233484004df7</sourceid>
@@ -5802,7 +5874,7 @@ This quality can only be taken during character creation.</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>9</sortorder>
             </gear>
           </children>
           <location />
@@ -5844,7 +5916,61 @@ This quality can only be taken during character creation.</notes>
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>12</sortorder>
+    </gear>
+    <gear>
+      <sourceid>b2a0b340-c793-4322-8422-8b03d18a6fae</sourceid>
+      <guid>242a9134-998e-4960-8a59-8257d3017348</guid>
+      <name>Ammo: Regular Ammo</name>
+      <category>Ammunition</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>30</qty>
+      <avail>2R</avail>
+      <costfor>10</costfor>
+      <cost>20</cost>
+      <extra>Shotguns</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
+      <source>SR5</source>
+      <page>434</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>13</sortorder>
     </gear>
   </gears>
   <vehicles />
@@ -6929,6 +7055,96 @@ This quality can only be taken during character creation.</notes>
         <nuyentype>AddCyberware</nuyentype>
         <objectid />
         <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>7b51b80e-52d0-493b-b9cd-02c76d61868f</guid>
+      <date>2020-02-16T18:30:14</date>
+      <amount>4000</amount>
+      <reason>Żniwa</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>fd16e290-79df-496d-a11a-84f108710e85</guid>
+      <date>2020-02-16T18:30:59</date>
+      <amount>8</amount>
+      <reason>Żniwa</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>d401e885-9881-4d8f-913a-50c13b2fa4fd</guid>
+      <date>2020-03-06T22:54:06</date>
+      <amount>-8.0</amount>
+      <reason>Purchased Gear Ammo: Explosive Rounds</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>23a06916-73b7-47c9-8340-b323157ff783</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>f551a4f2-e486-49a6-a230-9175f84b402f</guid>
+      <date>2020-03-06T22:54:17</date>
+      <amount>-37.5</amount>
+      <reason>Purchased Gear Ammo: Gel Rounds</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>05267cc0-98ea-4756-b27d-e06d6de54942</objectid>
+        <qty>15</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>d0215183-439d-4a22-84f4-7383c3064c45</guid>
+      <date>2020-03-06T22:54:41</date>
+      <amount>-46</amount>
+      <reason>Purchased Gear Restraint, Plastic</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>c59b0c4e-c0d0-4061-8bec-99a1b4a50ace</objectid>
+        <qty>92</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>856e4e90-0726-479d-9539-61ea7f4b246f</guid>
+      <date>2020-03-06T22:55:10</date>
+      <amount>-52</amount>
+      <reason>Purchased Gear Ammo: Regular Ammo</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>242a9134-998e-4960-8a59-8257d3017348</objectid>
+        <qty>26</qty>
         <extra />
       </undo>
     </expense>
