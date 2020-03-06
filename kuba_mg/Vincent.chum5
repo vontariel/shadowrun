@@ -1284,8 +1284,8 @@ Zaplate preferuje w telesmach, choć nie gardzi nuyenami. </notes>
       <hobbiesvice>Social Habit (Elven Wines)</hobbiesvice>
       <personallife>Single</personallife>
       <type>Contact</type>
-      <file>C:\Users\Vontariel\Desktop\shadowrun\chum\postaci\Grizzly.chum5</file>
-      <relative />
+      <file>C:\Users\Vontariel\Desktop\shadowrun\chum\postaci\shadowrun\kuba_mg\Grizzly.chum5</file>
+      <relative>../postaci/shadowrun/kuba_mg/Grizzly.chum5</relative>
       <notes>Anrold "Grizzly" Czarnociemny to znajomy jeszcze z czasów służby wojskowej. Troll, gora miesa, potwor w walce wrecz. Wyjatkowo silny nawet jak na trolla. Niejednemu piesciami (wzmocnionymi o 30cm ostrza wystajace z klykci) wytlumaczyl bledy zyciowe. Vincent to jego jeden z najlepszych przyjaciol.
 
 Ciagnie sie za nim wiele duchow przeszlosci - kazdego dnia sam siebie rani, by nie zapomniec o swoich dzialaniach wojennych. Poprzysiagl nigdy nie skrzywdzic juz nikogo, kto by na to sobie nie zasluzyl. 
@@ -7029,21 +7029,6 @@ This quality can only be taken during character creation.</notes>
   </mentorspirits>
   <expenses>
     <expense>
-      <guid>30321c11-bf89-473d-8cb9-526f88b30b5b</guid>
-      <date>2020-01-05T04:16:37</date>
-      <amount>3634.00</amount>
-      <reason>Starting Nuyen</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>ManualAdd</nuyentype>
-        <objectid />
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
       <guid>77a32e2e-bbce-4f92-b127-672bdf6e49a3</guid>
       <date>2020-01-05T04:16:37</date>
       <amount>3</amount>
@@ -7053,6 +7038,21 @@ This quality can only be taken during character creation.</notes>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>30321c11-bf89-473d-8cb9-526f88b30b5b</guid>
+      <date>2020-01-05T04:16:37</date>
+      <amount>3634.00</amount>
+      <reason>Starting Nuyen</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
         <objectid />
         <qty>0</qty>
         <extra />
