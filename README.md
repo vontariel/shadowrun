@@ -1,11 +1,12 @@
-# shadowrun
+# Shadowrun
 Jeśli to czytacie, znaczy, że już macie dostęp do repozytorium. YAY :)
 
 Tu są przechowywane karty postaci. Czemu tak? z kilku powodów:
 1. Wszystkie są w jednym miejscu i można łatwo się synchronizować. Koniec z Aurorka_final_ostateczna_tym-razem-na-bank-obiecuje_2.chum :D
 2. Git history - jestem w stanie śledzić WSZYSTKIE zmiany i odzyskać KAŻDĄ wersję jaka była wrzucona.
 
-# Tutorial co i jak
+# Tutorial
+## co i jak?
 Dla laików polecam ściągnięcie aplikacji gitHuba bo jest MEGAPROSTA w użyciu.
 Ściągnijcie repozytorium przy użyciu aplikacji, gdzie chcecie trzymać karty postaci. Każdy będzie miał teoretycznie dostęp do wszystkich, więc **proszę** o opanowanie nadmiernej ciekawości :P
 
@@ -25,5 +26,5 @@ I potem jeszcze raz wyżej wspomniany przycisk **Fetch/Pull/Push** (Teraz powini
 
 Karta zupdate'owana na serwerku.
 
-# Git flow
+## Git flow
 Z czasem, będę starał się was oswajać z innymi ficzerami Gita, dzięki czemu będzie całe zarządzanie o wiele bardziej wydajne. Nie przejmujcie się tym absolutnie póki co, wyjdzie w praniu :)
