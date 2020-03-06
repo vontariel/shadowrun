@@ -14,17 +14,20 @@ No dobra, macie aplikacje, sciagneliscie repozytorium, co dalej?
 Z górki :)
 
 Na górze zauważycie 3 pola:
-Current Repository (powinno być Shadowrun)
-Current Branch (**TYMCZASOWO, stopniowo będę wprowadzał git flow** powinno być **master**)
-**Fetch origin/Pull/Push** - **To jest ważne** zasadniczo na "dzień dobry naciśnijcie - zsynchronizujcie się. Na razie tyle.
+- Current Repository (powinno być Shadowrun)
+- Current Branch (**TYMCZASOWO, stopniowo będę wprowadzał git flow** powinno być **master**)
+- **Fetch origin/Pull/Push** - **To jest ważne** zasadniczo na "dzień dobry naciśnijcie - zsynchronizujcie się. Na razie tyle.
 
 Odpalcie chummera, zedytujcie kartę postaci, zapiszcie, wróćcie do aplikacji. Zauważycie, że wasz plik będzie z żółtą kropką (albo zieloną jak dodacie nowy).
-Koło waszego avatara zauważycie pole **summary (required)** lub zmieni automatycznie na np. **Updated Aurorka.chum**, Zostawcie jako Updated X, ważniejsze jest niżej **Description** - wpiszcie tu krótki opis **CO** zmieniliście np. "wreszcie uzupełniłem historię postaci". Chummer śledzi wydana karme/hajsy, ale dzieki temu nie bede musial odpalać by jednym rzutem oka wiedzieć co się zmieniło. 
 
-Kliknijcie **Commit to master**.
+Koło waszego avatara (w lewej części ekranu) zauważycie pole **summary (required)**, albo zmieni automatycznie na np. **Updated Aurorka.chum**.
+
+Ustawcie jako Updated X,Y,Z, ważniejsze jest niżej **Description** - wpiszcie tu krótki opis **CO** zmieniliście np. "wreszcie uzupełniłem historię postaci". Chummer śledzi wydana karme/hajsy, ale dzieki temu nie bede musial odpalać by jednym rzutem oka wiedzieć co się zmieniło. 
+
+Skończone? To kliknijcie **Commit to master**.
 I potem jeszcze raz wyżej wspomniany przycisk **Fetch/Pull/Push** (Teraz powinien być **Push**)
 
-Karta zupdate'owana na serwerku.
+Karta zupdate'owana na serwerku. Czas na piwko :)
 
 ## Git flow
 Z czasem, będę starał się was oswajać z innymi ficzerami Gita, dzięki czemu będzie całe zarządzanie o wiele bardziej wydajne. Nie przejmujcie się tym absolutnie póki co, wyjdzie w praniu :)
