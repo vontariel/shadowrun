@@ -15,7 +15,10 @@ Z górki :)
 Na górze zauważycie 3 pola:
 - Current Repository (powinno być **Shadowrun**)
 - Current Branch (powinno być **master**)
-- **Fetch origin/Pull/Push** - **To jest BARDZO ważne** na początku powinno być na **Fetch**. Naciśnijcie, to was zsynchronizuje. Jeśli zmieni się na **Pull**, oznacza to, że ktoś wrzucił coś od ostatniego razu na serwerek. Naciśnijcie jeszcze raz, by znowu widoczne było **Fetch**. **TO BARDZO WAŻNE** aby **PRZED** waszymi zmianami był widoczny **fetch**, **PO** synchronizacji (więc musicie nacisnąć **MINIMUM** jeden raz). 
+- **Fetch origin/Pull/Push** - **To jest BARDZO ważne!**
+
+Na początku powinno być na **Fetch**. Naciśnijcie, to was zsynchronizuje. Jeśli zmieni się na **Pull**, oznacza to, że ktoś wrzucił coś od ostatniego razu na serwerek. Naciśnijcie jeszcze raz, by znowu widoczne było **Fetch**. **TO BARDZO WAŻNE** aby **PRZED** waszymi zmianami był widoczny **fetch**, **PO** synchronizacji (więc musicie nacisnąć **MINIMUM** jeden raz). 
+
 
 Odpalcie chummera, zedytujcie kartę postaci, zapiszcie, wróćcie do aplikacji. Zauważycie, że wasz plik będzie na liście po lewej z żółtą kropką (albo zieloną jak dodacie nowy). W prawej części teraz będzie widać co się zmieniło, ale zignorujcie to. 
 
@@ -24,7 +27,7 @@ Koło waszego avatara (w lewej części ekranu) zauważycie pole **summary (requ
 Ustawcie jako Updated X,Y,Z (jeśli edytowaliście więcej niż jedną). Ważniejsze dla mnie jest pole niżej - **Description** - wpiszcie tu krótki opis **CO** zmieniliście np. *"wreszcie uzupełniłem historię postaci"*. Chummer śledzi wydane zasoby (karme/hajsy), ale dzieki temu nie bede musial odpalać chummera, i jednym rzutem oka będę wiedzieć co się zmieniło. 
 
 Skończone? To kliknijcie **Commit to master**.
-I potem jeszcze raz wyżej wspomniany przycisk **Fetch/Pull/Push** (Teraz powinien być **Push**)
+I potem jeszcze raz wyżej wspomniany przycisk **Fetch/Pull/Push** (Teraz powinien być **Push**, po kliknięciu zmieni się na **Fetch**)
 
 Karta zupdate'owana na serwerku. Czas na piwko :)
 
