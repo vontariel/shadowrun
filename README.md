@@ -6,7 +6,7 @@ Tu są przechowywane karty postaci. Czemu tak? z kilku powodów:
 2. Git history - jestem w stanie śledzić WSZYSTKIE zmiany i odzyskać KAŻDĄ wersję jaka była wrzucona.
 
 # Tutorial
-## co i jak?
+## Co i jak?
 Dla laików polecam ściągnięcie aplikacji gitHuba bo jest MEGAPROSTA w użyciu.
 Ściągnijcie repozytorium przy użyciu aplikacji, gdzie chcecie trzymać karty postaci. Każdy będzie miał teoretycznie dostęp do wszystkich, więc **proszę** o opanowanie nadmiernej ciekawości :P
 
