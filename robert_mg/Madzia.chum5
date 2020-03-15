@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <character>
   <createdversion>5.204.0</createdversion>
-  <appversion>5.209.0.0</appversion>
+  <appversion>5.211.0.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>default.xml</settings>
   <metatype>Dwarf</metatype>
@@ -17,6 +17,7 @@
   <walkalt>2/1/0</walkalt>
   <runalt>4/0/0</runalt>
   <sprintalt>1/1/0</sprintalt>
+  <initiativedice>1</initiativedice>
   <prioritymetatype>C,2</prioritymetatype>
   <priorityattributes>A,4</priorityattributes>
   <priorityspecial>A,4</priorityspecial>
@@ -64,11 +65,11 @@ Gobbet - indianka ze szczurem (WTF??)
 
 </gamenotes>
   <primaryarm>Left</primaryarm>
-  <karma>34</karma>
+  <karma>2</karma>
   <special>1</special>
   <totalspecial>1</totalspecial>
   <totalattributes>24</totalattributes>
-  <contactpoints>6</contactpoints>
+  <contactpoints>-2147483648</contactpoints>
   <contactpointsused>0</contactpointsused>
   <spelllimit>0</spelllimit>
   <cfplimit>7</cfplimit>
@@ -153,9 +154,9 @@ Gobbet - indianka ze szczurem (WTF??)
       <metatypemax>6</metatypemax>
       <metatypeaugmax>10</metatypeaugmax>
       <base>0</base>
-      <karma>1</karma>
+      <karma>2</karma>
       <metatypecategory>Standard</metatypecategory>
-      <totalvalue>2</totalvalue>
+      <totalvalue>3</totalvalue>
     </attribute>
     <attribute>
       <name>INT</name>
@@ -193,9 +194,9 @@ Gobbet - indianka ze szczurem (WTF??)
       <metatypemax>6</metatypemax>
       <metatypeaugmax>6</metatypeaugmax>
       <base>1</base>
-      <karma>0</karma>
+      <karma>1</karma>
       <metatypecategory>Special</metatypecategory>
-      <totalvalue>2</totalvalue>
+      <totalvalue>3</totalvalue>
     </attribute>
     <attribute>
       <name>MAG</name>
@@ -534,7 +535,7 @@ Gobbet - indianka ze szczurem (WTF??)
         <suid>47cb1e8b-c285-4c54-9aaa-75305ad6dd4f</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>0</base>
         <notes />
         <name>First Aid</name>
@@ -1323,6 +1324,7 @@ Gobbet - indianka ze szczurem (WTF??)
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1352,6 +1354,7 @@ Gobbet - indianka ze szczurem (WTF??)
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1381,6 +1384,7 @@ Gobbet - indianka ze szczurem (WTF??)
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods>
         <armormod>
           <sourceid>ebabbd5f-6fd9-4b9a-9350-a251e8652b4b</sourceid>
@@ -1506,6 +1510,7 @@ Gobbet - indianka ze szczurem (WTF??)
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1536,6 +1541,9 @@ Gobbet - indianka ze szczurem (WTF??)
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>0</conceal>
       <avail>0</avail>
@@ -1550,6 +1558,11 @@ Gobbet - indianka ze szczurem (WTF??)
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>132</page>
       <parentid>9d4f6bac-1259-4c12-82cb-d6fe24fa18c4</parentid>
@@ -1608,6 +1621,9 @@ Gobbet - indianka ze szczurem (WTF??)
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>8</conceal>
       <avail>4R</avail>
@@ -1622,6 +1638,11 @@ Gobbet - indianka ze szczurem (WTF??)
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>429</page>
       <parentid />
@@ -1768,6 +1789,7 @@ Gobbet - indianka ze szczurem (WTF??)
               <sortorder>0</sortorder>
             </gear>
           </gears>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -1786,6 +1808,7 @@ Gobbet - indianka ze szczurem (WTF??)
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -1814,6 +1837,7 @@ Gobbet - indianka ze szczurem (WTF??)
           <source>SR5</source>
           <page>432</page>
           <accuracy>0</accuracy>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -1832,6 +1856,7 @@ Gobbet - indianka ze szczurem (WTF??)
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -1968,6 +1993,7 @@ Gobbet - indianka ze szczurem (WTF??)
               <sortorder>0</sortorder>
             </gear>
           </gears>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -1986,6 +2012,7 @@ Gobbet - indianka ze szczurem (WTF??)
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -2014,6 +2041,7 @@ Gobbet - indianka ze szczurem (WTF??)
           <source>RG</source>
           <page>52</page>
           <accuracy>0</accuracy>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -2032,6 +2060,7 @@ Gobbet - indianka ze szczurem (WTF??)
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -2086,6 +2115,9 @@ Gobbet - indianka ze szczurem (WTF??)
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>0</conceal>
       <avail>7R</avail>
@@ -2100,6 +2132,11 @@ Gobbet - indianka ze szczurem (WTF??)
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>426</page>
       <parentid />
@@ -2158,6 +2195,9 @@ Gobbet - indianka ze szczurem (WTF??)
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>-2</conceal>
       <avail>0</avail>
@@ -2172,6 +2212,11 @@ Gobbet - indianka ze szczurem (WTF??)
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>422</page>
       <parentid />
@@ -2230,6 +2275,9 @@ Gobbet - indianka ze szczurem (WTF??)
       <ammoslots>1</ammoslots>
       <sizecategory>Light Crossbows</sizecategory>
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>6</conceal>
       <avail>0</avail>
@@ -2244,6 +2292,11 @@ Gobbet - indianka ze szczurem (WTF??)
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>449</page>
       <parentid>2b9e9dca-8a88-4d21-93f3-6d3a5adc01f7</parentid>
@@ -2550,7 +2603,8 @@ Gobbet - indianka ze szczurem (WTF??)
       <sourcename />
       <bonus>
       </bonus>
-      <firstlevelbonus />
+      <firstlevelbonus>
+      </firstlevelbonus>
       <notes>A character with Unsteady Hands has mild shakes that affect the dexterity and finesse in his hands. The character suffers a –2 dice pool modifier for all Agility-based tests when symptoms manifest themselves. The condition could be physiological (an untreated genetic disorder or damaged nerves, for example), caused by psychological trauma, or even be symptomatic of age. Certain augmentations or medications can mask these symptoms under normal circumstances. Under more stressful situations in the course of the run, there is a chance the Unsteady Hands condition can reappear.
 
 The character makes an Agility + Body (4) Test following a stressful encounter (combat, for example). A successful test means the character does not experience the symptoms of this condition (this time). A failed test causes the difficulties associated with unsteady hands to re-emerge, and they remain with the character for the remainder of the run.</notes>
@@ -6505,6 +6559,51 @@ The character makes an Agility + Body (4) Test following a stressful encounter (
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>c56938ed-5d71-4818-a932-ed8505c8e215</guid>
+      <date>2020-03-15T12:06:28</date>
+      <amount>-2</amount>
+      <reason>Active Skill First Aid 0 -&gt; 1</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>AddSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>bb4e0ebd-3c54-45b8-b0d9-86af8f3fe3e8</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>fc56665c-219e-4b12-afea-259974cd8a70</guid>
+      <date>2020-03-15T12:07:02</date>
+      <amount>-15</amount>
+      <reason>Attribute CHA 2 -&gt; 3</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>CHA</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>56f7e488-0e34-452f-a839-fce57f9f51e7</guid>
+      <date>2020-03-15T12:07:49</date>
+      <amount>-15</amount>
+      <reason>Attribute EDG 2 -&gt; 3</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>EDG</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <gearlocations />
   <armorlocations />
@@ -6523,9 +6622,37 @@ The character makes an Agility + Body (4) Test following a stressful encounter (
     <directoryname>Adapsin Applied as Multiplier, Not Grade</directoryname>
     <directoryname>Bone Lacing Adds to Body</directoryname>
     <directoryname>Cyberlimb Customisation Does Not Incur Grade Costs</directoryname>
-    <directoryname>Kill Code Sprite Optional Powers</directoryname>
     <directoryname>Trolls Have Natural Weapon Horns</directoryname>
+    <directoryname>Kill Code Sprite Optional Powers</directoryname>
   </customdatadirectorynames>
+  <plugins>
+    <ChummerHub.Client version="1.0.0.4">{
+  "DownloadedFromSINnersTime": "0001-01-01T00:00:00",
+  "ZipFilePath": "C:\\Users\\Vontariel\\AppData\\Local\\Temp\\SINner\\d5268106-bd40-40eb-9311-8e98957d93c8",
+  "FilePath": null,
+  "editionNumber": null,
+  "myHash": null,
+  "language": "en-us",
+  "siNnerMetaData": {
+    "id": "371c5810-5d6f-48d8-b6de-c634d96f9a3b",
+    "visibility": {
+      "id": "1d0aa60e-c7f8-4c10-ba15-1fe572c0e2fd",
+      "isPublic": true,
+      "isGroupVisible": true,
+      "userRights": null
+    },
+    "tags": []
+  },
+  "lastDownload": null,
+  "myGroup": null,
+  "alias": null,
+  "id": "d5268106-bd40-40eb-9311-8e98957d93c8",
+  "downloadUrl": null,
+  "uploadDateTime": null,
+  "lastChange": "2020-03-15T11:08:08.7380447Z",
+  "fileName": null
+}</ChummerHub.Client>
+  </plugins>
   <calculatedvalues>
     <!--these values are not loaded and only stored here for third parties, who parse this files (to not have to calculate them themselves)-->
     <physicalcm>8</physicalcm>
