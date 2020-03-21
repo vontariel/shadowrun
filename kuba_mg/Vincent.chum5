@@ -69,7 +69,7 @@ Uciekinier.</background>
   <burntstreetcred>0</burntstreetcred>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>4580.500</nuyen>
+  <nuyen>4275.500</nuyen>
   <startingnuyen>275000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -6798,6 +6798,57 @@ This quality can only be taken during character creation.</notes>
       <homenode>False</homenode>
       <sortorder>0</sortorder>
     </gear>
+    <gear>
+      <sourceid>0025f1c7-45a4-4ec5-a692-e18aab2f97a9</sourceid>
+      <guid>f9ceb95f-97e0-4c9a-9c5a-9868734c2993</guid>
+      <name>Doublebass carrier</name>
+      <category>Custom</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>300</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>SR5</source>
+      <page>1</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
   </gears>
   <vehicles />
   <metamagics />
@@ -8372,6 +8423,36 @@ This quality can only be taken during character creation.</notes>
         <nuyentype>AddGear</nuyentype>
         <objectid>9fc07235-7d53-46aa-99f0-ccf89c7bea5c</objectid>
         <qty>2</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>9d605d52-2d7a-4f66-8342-3574bf6d70ee</guid>
+      <date>2020-03-21T14:02:30</date>
+      <amount>-5</amount>
+      <reason>Cheeseburger</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>c4883d52-8bba-44e4-82b1-267af2d85687</guid>
+      <date>2020-03-21T14:08:48</date>
+      <amount>-300.0</amount>
+      <reason>Purchased Gear Doublebass carrier</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>f9ceb95f-97e0-4c9a-9c5a-9868734c2993</objectid>
+        <qty>1.0</qty>
         <extra />
       </undo>
     </expense>
