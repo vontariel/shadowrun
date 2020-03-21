@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <character>
   <createdversion>5.209.0.0</createdversion>
-  <appversion>5.209.0.0</appversion>
+  <appversion>5.211.0.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>default.xml</settings>
   <metatype>Elf</metatype>
@@ -17,6 +17,7 @@
   <walkalt>2/1/0</walkalt>
   <runalt>4/0/0</runalt>
   <sprintalt>2/1/0</sprintalt>
+  <initiativedice>1</initiativedice>
   <prioritymetatype>C,2</prioritymetatype>
   <priorityattributes>D,1</priorityattributes>
   <priorityspecial>E,0</priorityspecial>
@@ -57,7 +58,7 @@ Sierżant Makowski 30+ typowy glina, dowodził akcja zgarniania debili do suk
 
 Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; może żywego szefa przyprowadzic</gamenotes>
   <primaryarm>Right</primaryarm>
-  <karma>5</karma>
+  <karma>13</karma>
   <special>3</special>
   <totalspecial>3</totalspecial>
   <totalattributes>14</totalattributes>
@@ -74,7 +75,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
   <burntstreetcred>0</burntstreetcred>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>1353.333333333333</nuyen>
+  <nuyen>5353.333333333333</nuyen>
   <startingnuyen>275000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -1092,6 +1093,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1121,6 +1123,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1150,6 +1153,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1179,6 +1183,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1208,6 +1213,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1237,6 +1243,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1266,6 +1273,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1295,6 +1303,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1324,6 +1333,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <maxrating>0</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
       <armormods />
       <bonus />
       <wirelessbonus />
@@ -1354,6 +1364,9 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>0</conceal>
       <avail>0</avail>
@@ -1368,6 +1381,11 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>132</page>
       <parentid>b1aad155-844a-4c3f-b090-dc5ab41809f9</parentid>
@@ -1426,6 +1444,9 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>8</conceal>
       <avail>4R</avail>
@@ -1440,6 +1461,11 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>429</page>
       <parentid />
@@ -1644,6 +1670,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
               <sortorder>1</sortorder>
             </gear>
           </gears>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -1662,6 +1689,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -1798,6 +1826,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
               <sortorder>0</sortorder>
             </gear>
           </gears>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -1816,6 +1845,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -1844,6 +1874,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <source>SR5</source>
           <page>432</page>
           <accuracy>0</accuracy>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -1862,6 +1893,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -1890,6 +1922,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <source>RG</source>
           <page>52</page>
           <accuracy>0</accuracy>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -1908,6 +1941,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -1936,6 +1970,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <source>HT</source>
           <page>182</page>
           <accuracy>1</accuracy>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -1954,6 +1989,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -1982,6 +2018,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <source>HT</source>
           <page>180</page>
           <accuracy>0</accuracy>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -2000,6 +2037,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -2054,6 +2092,9 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>0</conceal>
       <avail>7R</avail>
@@ -2068,6 +2109,11 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>426</page>
       <parentid />
@@ -2102,6 +2148,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <source>SR5</source>
           <page>432</page>
           <accuracy>0</accuracy>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -2120,6 +2167,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -2174,6 +2222,9 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>0</conceal>
       <avail>7R</avail>
@@ -2188,6 +2239,11 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>426</page>
       <parentid />
@@ -2222,6 +2278,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <source>SR5</source>
           <page>432</page>
           <accuracy>0</accuracy>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -2240,6 +2297,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -2294,6 +2352,9 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>-2</conceal>
       <avail>0</avail>
@@ -2308,6 +2369,11 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>425</page>
       <parentid />
@@ -2366,6 +2432,9 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>-2</conceal>
       <avail>0</avail>
@@ -2380,6 +2449,11 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>422</page>
       <parentid />
@@ -2681,6 +2755,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
               <sortorder>4</sortorder>
             </gear>
           </gears>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -2699,6 +2774,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -2835,6 +2911,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
               <sortorder>1</sortorder>
             </gear>
           </gears>
+          <ammoreplace />
           <ammoslots>0</ammoslots>
           <modifyammocapacity />
           <damagetype />
@@ -2853,6 +2930,7 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
           <fullburst>0</fullburst>
           <suppressive>0</suppressive>
           <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
           <extra />
           <ammobonus>0</ammobonus>
           <wirelesson>False</wirelesson>
@@ -2907,6 +2985,9 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>-2</conceal>
       <avail>0</avail>
@@ -2921,6 +3002,11 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>422</page>
       <parentid>21dd5bb0-b967-406c-bd37-364cbbc3b86b</parentid>
@@ -2979,6 +3065,9 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>6</conceal>
       <avail>4R</avail>
@@ -2993,6 +3082,11 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>429</page>
       <parentid />
@@ -3051,6 +3145,9 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <ammoslots>1</ammoslots>
       <sizecategory />
       <firingmode>Skill</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
       <clips />
       <conceal>6</conceal>
       <avail>4R</avail>
@@ -3065,6 +3162,11 @@ Zadanie - Wyeliminować grupę; dowiedzieć się co się stało z porwanymi; mo�
       <longburst>6</longburst>
       <fullburst>10</fullburst>
       <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
       <source>SR5</source>
       <page>429</page>
       <parentid />
@@ -7467,8 +7569,10 @@ AP Modifier +2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <weaponbonus>
         <ap>1</ap>
         <damagetype>S</damagetype>
@@ -7523,8 +7627,10 @@ AP Modifier +2
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>SR5</source>
       <page>434</page>
       <canformpersona />
@@ -7535,6 +7641,59 @@ AP Modifier +2
       <matrixcmbonus>0</matrixcmbonus>
       <parentid />
       <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
+      <guid>e822811c-04df-43ed-a335-f08942f01389</guid>
+      <name>Fake SIN</name>
+      <category>ID/Credsticks</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating>6</maxrating>
+      <rating>4</rating>
+      <qty>1.0</qty>
+      <avail>(Rating * 3)F</avail>
+      <cost>Rating * 2500</cost>
+      <extra>Kamila Maszyńska (police sin)</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <selecttext />
+      </bonus>
+      <wirelessbonus />
+      <source>SR5</source>
+      <page>442</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>True</allowrename>
       <children />
       <location />
       <notes />
@@ -8750,10 +8909,48 @@ AP Modifier +2
       <order>0</order>
       <notes />
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>Kamila Maszyńska (police sin)</improvedname>
+      <sourcename>e822811c-04df-43ed-a335-f08942f01389</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
   </improvements>
   <drugs />
   <mentorspirits />
   <expenses>
+    <expense>
+      <guid>112b425b-3e69-46e8-92fa-a6bc5e654241</guid>
+      <date>2020-01-06T11:50:43</date>
+      <amount>5</amount>
+      <reason>Starting Karma</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
     <expense>
       <guid>99e7663f-280b-4632-af1e-536b766c3d17</guid>
       <date>2020-01-06T11:50:43</date>
@@ -8770,10 +8967,25 @@ AP Modifier +2
       </undo>
     </expense>
     <expense>
-      <guid>112b425b-3e69-46e8-92fa-a6bc5e654241</guid>
-      <date>2020-01-06T11:50:43</date>
-      <amount>5</amount>
-      <reason>Starting Karma</reason>
+      <guid>3b897218-a9ea-40c8-a175-9cd116dd916f</guid>
+      <date>2020-03-21T10:02:43</date>
+      <amount>4000</amount>
+      <reason>Mission Reward</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>45c561cd-87d7-41fa-bc61-b8d3ea7dff89</guid>
+      <date>2020-03-21T10:03:09</date>
+      <amount>8</amount>
+      <reason>Mission Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
       <undo>
@@ -8800,9 +9012,40 @@ AP Modifier +2
     <source>KC</source>
   </sources>
   <customdatadirectorynames>
+    <directoryname>Adapsin Applied as Multiplier, Not Grade</directoryname>
     <directoryname>Bone Lacing Adds to Body</directoryname>
+    <directoryname>Cyberlimb Customisation Does Not Incur Grade Costs</directoryname>
     <directoryname>Trolls Have Natural Weapon Horns</directoryname>
+    <directoryname>Kill Code Sprite Optional Powers</directoryname>
   </customdatadirectorynames>
+  <plugins>
+    <ChummerHub.Client version="1.0.0.4">{
+  "DownloadedFromSINnersTime": "0001-01-01T00:00:00",
+  "ZipFilePath": "C:\\Users\\Vontariel\\AppData\\Local\\Temp\\SINner\\5ff75c6e-9560-4594-8faf-0961396c1fda",
+  "FilePath": null,
+  "editionNumber": null,
+  "myHash": null,
+  "language": "en-us",
+  "siNnerMetaData": {
+    "id": "c9f02230-42bf-4079-82b2-b92120b5f095",
+    "visibility": {
+      "id": "c83b8594-971e-4ef9-8008-16dcdeb5943d",
+      "isPublic": true,
+      "isGroupVisible": true,
+      "userRights": null
+    },
+    "tags": []
+  },
+  "lastDownload": null,
+  "myGroup": null,
+  "alias": null,
+  "id": "5ff75c6e-9560-4594-8faf-0961396c1fda",
+  "downloadUrl": null,
+  "uploadDateTime": null,
+  "lastChange": "2020-01-06T11:16:40.8567871Z",
+  "fileName": null
+}</ChummerHub.Client>
+  </plugins>
   <calculatedvalues>
     <!--these values are not loaded and only stored here for third parties, who parse this files (to not have to calculate them themselves)-->
     <physicalcm>10</physicalcm>
