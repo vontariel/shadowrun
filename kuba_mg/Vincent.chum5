@@ -69,7 +69,7 @@ Uciekinier.</background>
   <burntstreetcred>0</burntstreetcred>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>7490.500</nuyen>
+  <nuyen>4580.500</nuyen>
   <startingnuyen>275000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -5009,61 +5009,6 @@ This quality can only be taken during character creation.</notes>
       <sortorder>5</sortorder>
     </gear>
     <gear>
-      <sourceid>2633cf38-90a6-4843-b475-e3ee1132fb5f</sourceid>
-      <guid>5f059b0c-7106-41ac-a961-2a5f3de005ec</guid>
-      <name>Gas Mask</name>
-      <category>Survival Gear</category>
-      <capacity />
-      <armorcapacity>[2]</armorcapacity>
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <qty>1.0</qty>
-      <avail>0</avail>
-      <cost>200</cost>
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus>
-        <toxininhalationimmune />
-        <pathogeninhalationimmune />
-      </bonus>
-      <wirelessbonus>
-      </wirelessbonus>
-      <source>SR5</source>
-      <page>449</page>
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>6</sortorder>
-    </gear>
-    <gear>
       <sourceid>53c0b4cc-b209-4db4-bb0d-6710b3f4349a</sourceid>
       <guid>c59b0c4e-c0d0-4061-8bec-99a1b4a50ace</guid>
       <name>Restraint, Plastic</name>
@@ -5993,7 +5938,8 @@ This quality can only be taken during character creation.</notes>
       <bonus>
         <selecttext />
       </bonus>
-      <wirelessbonus />
+      <wirelessbonus>
+      </wirelessbonus>
       <source>SR5</source>
       <page>442</page>
       <canformpersona />
@@ -6004,6 +5950,833 @@ This quality can only be taken during character creation.</notes>
       <matrixcmbonus>0</matrixcmbonus>
       <parentid />
       <allowrename>True</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>132d65fa-132a-4f69-b007-a08860f47aa6</sourceid>
+      <guid>5cc01dca-db8a-4d49-8197-4b66f4de80fa</guid>
+      <name>Litre of Milk</name>
+      <category>Biotech</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>5</qty>
+      <avail>0</avail>
+      <cost>3</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+      </bonus>
+      <wirelessbonus />
+      <source>NF</source>
+      <page>172</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>a210be88-be16-4d66-afcb-7d58b8e1397f</sourceid>
+      <guid>f973b818-bcf4-459b-af03-b0785a71f501</guid>
+      <name>Miniwelder</name>
+      <category>Breaking and Entering Gear</category>
+      <capacity />
+      <armorcapacity>[1]</armorcapacity>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>2</avail>
+      <cost>250</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>SR5</source>
+      <page>448</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>97f888dd-7e0d-4f33-b4cc-396cddecdf62</sourceid>
+      <guid>29196b62-c732-43cc-990f-900706766e6d</guid>
+      <name>Miniwelder Fuel Canister</name>
+      <category>Breaking and Entering Gear</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>5</qty>
+      <avail>2</avail>
+      <cost>80</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>SR5</source>
+      <page>448</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>6731a23a-25cc-4c86-be77-35e90693e837</sourceid>
+      <guid>6a6fb62f-9a1b-417e-ab29-4c83df403b66</guid>
+      <name>AR Game</name>
+      <category>Commlink Apps</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>50.00</cost>
+      <extra>Shadowgun 5</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <selecttext />
+      </bonus>
+      <wirelessbonus />
+      <source>DT</source>
+      <page>55</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>f1d72c1e-32f6-48d1-88c9-f916119cbaf8</sourceid>
+      <guid>8af16f6d-b5da-4ed0-9ed8-987c4db142e6</guid>
+      <name>Theme Music</name>
+      <category>Commlink Apps</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>10.00</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>DT</source>
+      <page>56</page>
+      <canformpersona />
+      <devicerating />
+      <gearname>JOJO5 - Il vento d'oro</gearname>
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>f1d72c1e-32f6-48d1-88c9-f916119cbaf8</sourceid>
+      <guid>9c58cfe3-26aa-479f-970d-1f23e3f2f40c</guid>
+      <name>Theme Music</name>
+      <category>Commlink Apps</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>10.00</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>DT</source>
+      <page>56</page>
+      <canformpersona />
+      <devicerating />
+      <gearname>Payday2 - Razormind</gearname>
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked />
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>7e887224-6896-4588-a5d3-cace6a8506d2</sourceid>
+      <guid>5beeb057-78e1-45af-8ab8-38fc948c6766</guid>
+      <name>White Noise Generator</name>
+      <category>Communications and Countermeasures</category>
+      <capacity />
+      <armorcapacity>[2]</armorcapacity>
+      <minrating />
+      <maxrating>6</maxrating>
+      <rating>4</rating>
+      <qty>5</qty>
+      <avail>(Rating)</avail>
+      <cost>Rating * 50</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>SR5</source>
+      <page>441</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>033022fc-5148-45b3-976b-b13b384fafb1</sourceid>
+      <guid>ed727f5e-2ee3-492f-83ed-de82f946296a</guid>
+      <name>Video Game (New)</name>
+      <category>Entertainment</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>50</cost>
+      <extra>Troll of Duty: Modern Trogfare</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <selecttext />
+      </bonus>
+      <wirelessbonus />
+      <source>RF</source>
+      <page>253</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>True</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>902585b9-5806-41cf-8498-e47444284236</sourceid>
+      <guid>e99c38c2-9296-4a4d-a059-6dc69e43a40f</guid>
+      <name>Body Bag</name>
+      <category>Extraction Devices</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>5</qty>
+      <avail>6</avail>
+      <cost>50</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>SS</source>
+      <page>173</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>08fb5b81-af99-4311-8588-f7d680d3fa5c</sourceid>
+      <guid>296f86df-a3c1-46df-8618-bc5cc28287c9</guid>
+      <name>Magnesium Torch</name>
+      <category>Survival Gear</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>10</qty>
+      <avail>0</avail>
+      <cost>5</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>SR5</source>
+      <page>449</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>dcecc477-92eb-427e-ae90-7f4465f1ebbc</sourceid>
+      <guid>0ff2d8c6-acfc-4448-bf30-9f430845346f</guid>
+      <name>Fashion Gasmask</name>
+      <category>Survival Gear</category>
+      <capacity>0</capacity>
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>3</avail>
+      <cost>300</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <toxininhalationimmune />
+        <pathogeninhalationimmune />
+      </bonus>
+      <wirelessbonus />
+      <source>CA</source>
+      <page>141</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>2633cf38-90a6-4843-b475-e3ee1132fb5f</sourceid>
+      <guid>414a945c-b562-4fec-aaf8-f69504159654</guid>
+      <name>Gas Mask</name>
+      <category>Survival Gear</category>
+      <capacity />
+      <armorcapacity>[2]</armorcapacity>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>200</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <toxininhalationimmune />
+        <pathogeninhalationimmune />
+      </bonus>
+      <wirelessbonus />
+      <source>SR5</source>
+      <page>449</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>c49a893a-d445-4aac-bec0-c8501cba4c2c</sourceid>
+      <guid>e8b10409-7186-4d3a-92e1-8e7ba336247c</guid>
+      <name>Flashlight</name>
+      <category>Survival Gear</category>
+      <capacity />
+      <armorcapacity>[1]</armorcapacity>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>25</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>SR5</source>
+      <page>449</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>d7c98f39-279e-4169-8818-0c3cad08205b</sourceid>
+      <guid>ba19a6b2-2e88-48de-b572-f24a7cea6c99</guid>
+      <name>Backpack (Good)</name>
+      <category>Tools</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>100</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>RF</source>
+      <page>254</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>429fbdba-2818-43db-948a-e138b6bf49f9</sourceid>
+      <guid>ef93dc4b-d418-45a1-b64b-9e8ef8aaaa44</guid>
+      <name>Duffel Bag (Good)</name>
+      <category>Tools</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>2</qty>
+      <avail>0</avail>
+      <cost>100</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>RF</source>
+      <page>254</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>afff2913-c418-45d3-a0d0-7d22180e3f7c</sourceid>
+      <guid>9fc07235-7d53-46aa-99f0-ccf89c7bea5c</guid>
+      <name>Luggage (Good)</name>
+      <category>Tools</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>2</qty>
+      <avail>0</avail>
+      <cost>100</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>RF</source>
+      <page>254</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
       <children />
       <location />
       <notes />
@@ -6847,52 +7620,6 @@ This quality can only be taken during character creation.</notes>
     </improvement>
     <improvement>
       <target />
-      <improvedname />
-      <sourcename>5f059b0c-7106-41ac-a961-2a5f3de005ec</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>ToxinInhalationImmune</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>False</addtorating>
-      <enabled>True</enabled>
-      <order>0</order>
-      <notes />
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname />
-      <sourcename>5f059b0c-7106-41ac-a961-2a5f3de005ec</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>PathogenInhalationImmune</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>False</addtorating>
-      <enabled>True</enabled>
-      <order>0</order>
-      <notes />
-    </improvement>
-    <improvement>
-      <target />
       <improvedname>Dominik Jachaś</improvedname>
       <sourcename>c8744e7a-95fa-4c5e-9df3-8114761e1974</sourcename>
       <min>0</min>
@@ -7031,6 +7758,29 @@ This quality can only be taken during character creation.</notes>
     </improvement>
     <improvement>
       <target />
+      <improvedname>Policyjny</improvedname>
+      <sourcename>244ca316-66b6-4231-84c8-616a1f068870</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
       <improvedname>DEP</improvedname>
       <sourcename />
       <min>-2</min>
@@ -7054,8 +7804,8 @@ This quality can only be taken during character creation.</notes>
     </improvement>
     <improvement>
       <target />
-      <improvedname>Policyjny</improvedname>
-      <sourcename>244ca316-66b6-4231-84c8-616a1f068870</sourcename>
+      <improvedname>Shadowgun 5</improvedname>
+      <sourcename>6a6fb62f-9a1b-417e-ab29-4c83df403b66</sourcename>
       <min>0</min>
       <max>0</max>
       <aug>0</aug>
@@ -7065,6 +7815,167 @@ This quality can only be taken during character creation.</notes>
       <exclude />
       <condition />
       <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Troll of Duty: Modern Trogfare</improvedname>
+      <sourcename>ed727f5e-2ee3-492f-83ed-de82f946296a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>e2d15abc-bf3e-460e-8264-157c72b1d3d0</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ToxinInhalationImmune</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>e2d15abc-bf3e-460e-8264-157c72b1d3d0</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>PathogenInhalationImmune</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>0ff2d8c6-acfc-4448-bf30-9f430845346f</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ToxinInhalationImmune</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>0ff2d8c6-acfc-4448-bf30-9f430845346f</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>PathogenInhalationImmune</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>414a945c-b562-4fec-aaf8-f69504159654</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ToxinInhalationImmune</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>414a945c-b562-4fec-aaf8-f69504159654</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>PathogenInhalationImmune</improvementttype>
       <improvementsource>Gear</improvementsource>
       <custom>False</custom>
       <customname />
@@ -7105,21 +8016,6 @@ This quality can only be taken during character creation.</notes>
   </mentorspirits>
   <expenses>
     <expense>
-      <guid>30321c11-bf89-473d-8cb9-526f88b30b5b</guid>
-      <date>2020-01-05T04:16:37</date>
-      <amount>3634.00</amount>
-      <reason>Starting Nuyen</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>ManualAdd</nuyentype>
-        <objectid />
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
       <guid>77a32e2e-bbce-4f92-b127-672bdf6e49a3</guid>
       <date>2020-01-05T04:16:37</date>
       <amount>3</amount>
@@ -7129,6 +8025,21 @@ This quality can only be taken during character creation.</notes>
       <undo>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>30321c11-bf89-473d-8cb9-526f88b30b5b</guid>
+      <date>2020-01-05T04:16:37</date>
+      <amount>3634.00</amount>
+      <reason>Starting Nuyen</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
         <objectid />
         <qty>0</qty>
         <extra />
@@ -7224,6 +8135,246 @@ This quality can only be taken during character creation.</notes>
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>74c7aa76-0b33-4528-88fe-69d48a7fc3f2</guid>
+      <date>2020-03-21T12:50:13</date>
+      <amount>-15</amount>
+      <reason>Purchased Gear Litre of Milk</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>5cc01dca-db8a-4d49-8197-4b66f4de80fa</objectid>
+        <qty>5</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>60829562-d3bb-486d-b470-ad9c3ce041c5</guid>
+      <date>2020-03-21T12:50:51</date>
+      <amount>-250.0</amount>
+      <reason>Purchased Gear Miniwelder</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>f973b818-bcf4-459b-af03-b0785a71f501</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>906c90f5-8648-4bca-8b7c-ede67a978bc4</guid>
+      <date>2020-03-21T12:50:58</date>
+      <amount>-400</amount>
+      <reason>Purchased Gear Miniwelder Fuel Canister</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>29196b62-c732-43cc-990f-900706766e6d</objectid>
+        <qty>5</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>9a1585a9-d5b2-482d-8527-d15c37f5ee9d</guid>
+      <date>2020-03-21T12:52:15</date>
+      <amount>-50.0</amount>
+      <reason>Purchased Gear AR Game</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>6a6fb62f-9a1b-417e-ab29-4c83df403b66</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>170640b9-79d3-4d44-9e60-35ca870f5076</guid>
+      <date>2020-03-21T12:52:35</date>
+      <amount>0</amount>
+      <reason>Purchased Gear Theme Music</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>b14885e2-466d-4676-8953-e00ad64cb547</objectid>
+        <qty>20</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>a741ec9e-bc50-4c38-870f-91219ef7f829</guid>
+      <date>2020-03-21T12:53:28</date>
+      <amount>-10.0</amount>
+      <reason>Purchased Gear Theme Music</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>8af16f6d-b5da-4ed0-9ed8-987c4db142e6</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>2661d6b1-fd0b-40c9-9eee-5ddad0ebd325</guid>
+      <date>2020-03-21T12:53:36</date>
+      <amount>-10.0</amount>
+      <reason>Purchased Gear Theme Music</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>8af16f6d-b5da-4ed0-9ed8-987c4db142e6</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>d8337e51-f45a-4b6e-bc20-120cf0ef4bd3</guid>
+      <date>2020-03-21T12:55:39</date>
+      <amount>-1000</amount>
+      <reason>Purchased Gear White Noise Generator</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>5beeb057-78e1-45af-8ab8-38fc948c6766</objectid>
+        <qty>5</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>5d7a2785-acdc-4ceb-b750-973994d35626</guid>
+      <date>2020-03-21T12:58:42</date>
+      <amount>-50.0</amount>
+      <reason>Purchased Gear Video Game (New)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>ed727f5e-2ee3-492f-83ed-de82f946296a</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>2c8309c0-c1ce-4615-bac5-ddb53bbb2461</guid>
+      <date>2020-03-21T13:00:00</date>
+      <amount>-250</amount>
+      <reason>Purchased Gear Body Bag</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>e99c38c2-9296-4a4d-a059-6dc69e43a40f</objectid>
+        <qty>5</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>3a9f9de3-3321-48ac-bcb8-486e6ff5f3c8</guid>
+      <date>2020-03-21T13:02:19</date>
+      <amount>-50</amount>
+      <reason>Purchased Gear Magnesium Torch</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>296f86df-a3c1-46df-8618-bc5cc28287c9</objectid>
+        <qty>10</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>acaaf18b-c48e-482d-bf64-1d86f5962e1a</guid>
+      <date>2020-03-21T13:02:34</date>
+      <amount>-300.0</amount>
+      <reason>Purchased Gear Fashion Gasmask</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>0ff2d8c6-acfc-4448-bf30-9f430845346f</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>ad1f0103-3c06-4027-944d-bd2e5b89e7e5</guid>
+      <date>2020-03-21T13:03:52</date>
+      <amount>-25.0</amount>
+      <reason>Purchased Gear Flashlight</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>e8b10409-7186-4d3a-92e1-8e7ba336247c</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>cf82af14-821d-413d-9918-391dede88972</guid>
+      <date>2020-03-21T13:04:01</date>
+      <amount>-100.0</amount>
+      <reason>Purchased Gear Backpack (Good)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>ba19a6b2-2e88-48de-b572-f24a7cea6c99</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>8281022c-4a02-4841-8adb-8c3f91bf5e8e</guid>
+      <date>2020-03-21T13:04:07</date>
+      <amount>-200</amount>
+      <reason>Purchased Gear Duffel Bag (Good)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>ef93dc4b-d418-45a1-b64b-9e8ef8aaaa44</objectid>
+        <qty>2</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>8a5346e3-234b-4b4d-86e8-40431984d0bc</guid>
+      <date>2020-03-21T13:04:17</date>
+      <amount>-200</amount>
+      <reason>Purchased Gear Luggage (Good)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>9fc07235-7d53-46aa-99f0-ccf89c7bea5c</objectid>
+        <qty>2</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <gearlocations />
   <armorlocations />
@@ -7240,6 +8391,9 @@ This quality can only be taken during character creation.</notes>
     <source>R5</source>
     <source>RF</source>
     <source>DT</source>
+    <source>NF</source>
+    <source>SS</source>
+    <source>CA</source>
   </sources>
   <customdatadirectorynames>
     <directoryname>Adapsin Applied as Multiplier, Not Grade</directoryname>
