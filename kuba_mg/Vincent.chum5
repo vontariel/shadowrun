@@ -2498,7 +2498,7 @@ Wygodne adidaski</notes>
         <name>Tetrachromatic Vision</name>
       </wirelesspairinclude>
       <children />
-      <notes />
+      <notes>Average metahuman vison is based on the eyes having three types of cones. People with color-blindness have only two and the genetech procedure to correct this is among the most common performed. Those with tetrachromatic vision have a fourth cone that allows them to see slightly into the ultraviolet spectrum and give them much greater acuity at distinguishing hue and slightly increases ability to see in dim light. Tetrachromacy lets you treat Partial Light conditions as Full Light (p. 175, SR5) and grants a +3 dice pool modifier to visual Perception tests.</notes>
       <discountedcost>False</discountedcost>
       <addtoparentess>False</addtoparentess>
       <addtoparentcapacity>False</addtoparentcapacity>
@@ -3486,7 +3486,8 @@ Wygodne adidaski</notes>
         <name>Muscle Toner</name>
       </wirelesspairinclude>
       <children />
-      <notes />
+      <notes>This treatment increases muscle fiber elasticity in existing muscle tension, resulting in increased muscle tension and flexibility while providing a smooth and ropy physique. Muscle toner adds its rating to your Agility. This bioware is incompatible with augmentations that increase Agility, including the muscle replacements cyberware.
+</notes>
       <discountedcost>False</discountedcost>
       <addtoparentess>False</addtoparentess>
       <addtoparentcapacity>False</addtoparentcapacity>
@@ -6513,7 +6514,7 @@ This quality can only be taken during character creation.</notes>
       <page>141</page>
       <canformpersona />
       <devicerating />
-      <gearname />
+      <gearname>Plague doctor</gearname>
       <forcedvalue />
       <matrixcmfilled>0</matrixcmfilled>
       <matrixcmbonus>0</matrixcmbonus>
