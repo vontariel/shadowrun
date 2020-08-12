@@ -69,7 +69,7 @@ Uciekinier.</background>
   <burntstreetcred>0</burntstreetcred>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>4275.500</nuyen>
+  <nuyen>4116.500</nuyen>
   <startingnuyen>275000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -1996,7 +1996,7 @@ Wygodne adidaski</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
           </gears>
           <ammoslots>0</ammoslots>
@@ -2022,7 +2022,7 @@ Wygodne adidaski</notes>
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </accessory>
         <accessory>
           <sourceid>b3562903-b1c6-4300-9f6e-25e0102aa69b</sourceid>
@@ -2150,7 +2150,7 @@ Wygodne adidaski</notes>
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
           </gears>
           <ammoslots>0</ammoslots>
@@ -2176,7 +2176,7 @@ Wygodne adidaski</notes>
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </accessory>
         <accessory>
           <sourceid>f2eee4ed-d0cb-4163-84d9-91e537cd13d9</sourceid>
@@ -2222,7 +2222,7 @@ Wygodne adidaski</notes>
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
         </accessory>
         <accessory>
           <sourceid>83902f51-5f87-444f-a3ff-a74ce865e1af</sourceid>
@@ -2268,7 +2268,7 @@ Wygodne adidaski</notes>
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
         </accessory>
       </accessories>
       <location />
@@ -2295,7 +2295,7 @@ Wygodne adidaski</notes>
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </weapon>
     <weapon>
       <sourceid>c2c0e756-a099-4f9d-b6bb-18f412d670a3</sourceid>
@@ -2367,7 +2367,7 @@ Wygodne adidaski</notes>
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
     </weapon>
   </weapons>
   <cyberwares>
@@ -2428,7 +2428,15 @@ Wygodne adidaski</notes>
         <name>Move-by-Wire System</name>
       </wirelesspairinclude>
       <children />
-      <notes />
+      <notes>While usually considered cutting-edge technology, the move-by-wire system actually predates all other reaction cyberware, being the prototype from which wired reflexes and similar systems were drawn. It was simply too expensive and invasive to the user’s body for widespread use, and the inferior, but more survivable, wired reflexes claimed its glory. Researchers have been struggling with it for decades and still haven’t perfected it, but it’s at least closer to being usable today than ever before. The system works by putting the user’s entire body into a permanent seizure, using electrical impulses to direct those seizures towards an eventual end goal, such as “move here” or “stab that guy.” In many ways, this isn’t unlike a high-end aircraft, where hundreds of computerized micro-corrections are required to keep it flying, only using metahuman flesh and bone instead of high-end carbon and aluminum. Any user under an active system will be affected by constant small twitches and tremors due to the complex interactions of the system, which vanish as soon as the system engages actual movement, returning whenever they are once again still. 
+
+Move-by-wire is incompatible with any other reaction-enhancing augmentation. 
+Each Rating point of a move-by-wire system adds +1 Reaction and +3 Initiative (making it +4 total to Initiative). 
+Rating 1 move-by-wire does not offer any additional Initiative Dice, but Rating 2 and Rating 3 offer +1D6 Initiative Dice, meaning Rating 2 offers +2 Reaction, +6 Initiative, and +1D6 Initiative Dice, and Rating 3 offers +3 Reaction, +9 Initiative, and +1D6 Initiative Dice. 
+
+In addition, the move-by-wire system acts as skillwires of twice its Rating, but will require a skilljack to access this functionality. Users of move-by-wire systems suffer a penalty to their Social limit equal to the system’s Rating thanks to their constant twitches and tremors.
+
+Wireless Bonus: : +1 to relevant inherent limits when used as skillwires (see p. 455, SR5).</notes>
       <discountedcost>False</discountedcost>
       <addtoparentess>False</addtoparentess>
       <addtoparentcapacity>False</addtoparentcapacity>
@@ -5019,7 +5027,7 @@ This quality can only be taken during character creation.</notes>
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>100</qty>
+      <qty>110</qty>
       <avail>0</avail>
       <costfor>10</costfor>
       <cost>5</cost>
@@ -5874,7 +5882,7 @@ This quality can only be taken during character creation.</notes>
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>30</qty>
+      <qty>30.0</qty>
       <avail>2R</avail>
       <costfor>10</costfor>
       <cost>20</cost>
@@ -5992,7 +6000,8 @@ This quality can only be taken during character creation.</notes>
       <stolen>False</stolen>
       <bonus>
       </bonus>
-      <wirelessbonus />
+      <wirelessbonus>
+      </wirelessbonus>
       <source>NF</source>
       <page>172</page>
       <canformpersona />
@@ -6042,8 +6051,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>SR5</source>
       <page>448</page>
       <canformpersona />
@@ -6093,8 +6104,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>SR5</source>
       <page>448</page>
       <canformpersona />
@@ -6147,7 +6160,8 @@ This quality can only be taken during character creation.</notes>
       <bonus>
         <selecttext />
       </bonus>
-      <wirelessbonus />
+      <wirelessbonus>
+      </wirelessbonus>
       <source>DT</source>
       <page>55</page>
       <canformpersona />
@@ -6197,8 +6211,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>DT</source>
       <page>56</page>
       <canformpersona />
@@ -6248,8 +6264,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>DT</source>
       <page>56</page>
       <canformpersona />
@@ -6299,8 +6317,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>SR5</source>
       <page>441</page>
       <canformpersona />
@@ -6353,7 +6373,8 @@ This quality can only be taken during character creation.</notes>
       <bonus>
         <selecttext />
       </bonus>
-      <wirelessbonus />
+      <wirelessbonus>
+      </wirelessbonus>
       <source>RF</source>
       <page>253</page>
       <canformpersona />
@@ -6403,8 +6424,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>SS</source>
       <page>173</page>
       <canformpersona />
@@ -6454,8 +6477,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>SR5</source>
       <page>449</page>
       <canformpersona />
@@ -6509,7 +6534,8 @@ This quality can only be taken during character creation.</notes>
         <toxininhalationimmune />
         <pathogeninhalationimmune />
       </bonus>
-      <wirelessbonus />
+      <wirelessbonus>
+      </wirelessbonus>
       <source>CA</source>
       <page>141</page>
       <canformpersona />
@@ -6563,7 +6589,8 @@ This quality can only be taken during character creation.</notes>
         <toxininhalationimmune />
         <pathogeninhalationimmune />
       </bonus>
-      <wirelessbonus />
+      <wirelessbonus>
+      </wirelessbonus>
       <source>SR5</source>
       <page>449</page>
       <canformpersona />
@@ -6613,8 +6640,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>SR5</source>
       <page>449</page>
       <canformpersona />
@@ -6664,8 +6693,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>RF</source>
       <page>254</page>
       <canformpersona />
@@ -6715,8 +6746,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>RF</source>
       <page>254</page>
       <canformpersona />
@@ -6766,8 +6799,10 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>RF</source>
       <page>254</page>
       <canformpersona />
@@ -6817,10 +6852,63 @@ This quality can only be taken during character creation.</notes>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
+      <bonus>
+      </bonus>
+      <wirelessbonus>
+      </wirelessbonus>
       <source>SR5</source>
       <page>1</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>f27ca349-5003-42de-97a9-3ae4f69d1aa7</sourceid>
+      <guid>931c9350-9b1b-4449-8acd-6d5eff41bb2e</guid>
+      <name>C-Squared</name>
+      <category>Chemicals</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating>6</maxrating>
+      <rating>2</rating>
+      <qty>5</qty>
+      <avail>2</avail>
+      <cost>Rating * 15</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>HT</source>
+      <page>187</page>
       <canformpersona />
       <devicerating />
       <gearname />
@@ -7833,29 +7921,6 @@ This quality can only be taken during character creation.</notes>
     </improvement>
     <improvement>
       <target />
-      <improvedname>DEP</improvedname>
-      <sourcename />
-      <min>-2</min>
-      <max>-2</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Attribute</improvementttype>
-      <improvementsource>EssenceLoss</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>False</addtorating>
-      <enabled>True</enabled>
-      <order>0</order>
-      <notes />
-    </improvement>
-    <improvement>
-      <target />
       <improvedname>Shadowgun 5</improvedname>
       <sourcename>6a6fb62f-9a1b-417e-ab29-4c83df403b66</sourcename>
       <min>0</min>
@@ -8038,6 +8103,29 @@ This quality can only be taken during character creation.</notes>
       <order>0</order>
       <notes />
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>DEP</improvedname>
+      <sourcename />
+      <min>-2</min>
+      <max>-2</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Attribute</improvementttype>
+      <improvementsource>EssenceLoss</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
   </improvements>
   <drugs />
   <mentorspirits>
@@ -8068,21 +8156,6 @@ This quality can only be taken during character creation.</notes>
   </mentorspirits>
   <expenses>
     <expense>
-      <guid>77a32e2e-bbce-4f92-b127-672bdf6e49a3</guid>
-      <date>2020-01-05T04:16:37</date>
-      <amount>3</amount>
-      <reason>Starting Karma</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <undo>
-        <karmatype>ManualAdd</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid />
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
       <guid>30321c11-bf89-473d-8cb9-526f88b30b5b</guid>
       <date>2020-01-05T04:16:37</date>
       <amount>3634.00</amount>
@@ -8092,6 +8165,21 @@ This quality can only be taken during character creation.</notes>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>77a32e2e-bbce-4f92-b127-672bdf6e49a3</guid>
+      <date>2020-01-05T04:16:37</date>
+      <amount>3</amount>
+      <reason>Starting Karma</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
         <objectid />
         <qty>0</qty>
         <extra />
@@ -8454,6 +8542,51 @@ This quality can only be taken during character creation.</notes>
         <nuyentype>AddGear</nuyentype>
         <objectid>f9ceb95f-97e0-4c9a-9c5a-9868734c2993</objectid>
         <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>2fc0b9b7-0568-4d50-9a91-d02fbf101fda</guid>
+      <date>2020-03-22T14:08:21</date>
+      <amount>-7</amount>
+      <reason>Purchased Gear Restraint, Plastic</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>c59b0c4e-c0d0-4061-8bec-99a1b4a50ace</objectid>
+        <qty>14</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>7f66caf4-3cb3-482e-8ea2-3758f5933cb2</guid>
+      <date>2020-03-22T14:08:36</date>
+      <amount>-2.0</amount>
+      <reason>Purchased Gear Ammo: Regular Ammo</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>242a9134-998e-4960-8a59-8257d3017348</objectid>
+        <qty>1.0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>a1ccfa6b-fbb8-4501-93ba-162a41c18576</guid>
+      <date>2020-08-10T03:42:46</date>
+      <amount>-150</amount>
+      <reason>Purchased Gear C-Squared</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>931c9350-9b1b-4449-8acd-6d5eff41bb2e</objectid>
+        <qty>5</qty>
         <extra />
       </undo>
     </expense>
