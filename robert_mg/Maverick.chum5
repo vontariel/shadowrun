@@ -26,7 +26,7 @@
   <prioritytalent>Mundane</prioritytalent>
   <priorityskills />
   <essenceatspecialstart>-79228162514264337593543950335</essenceatspecialstart>
-  <name>Maverick</name>
+  <name>Andrzej Szewczyk</name>
   <mainmugshotindex>-1</mainmugshotindex>
   <mugshots />
   <sex>Męska</sex>
@@ -37,12 +37,12 @@
   <skin>Biała</skin>
   <hair />
   <description />
-  <background>Leon wychował się w ubogiej rodzinie na ulicach Warszawy. Od dzieciństwa wykazywał zainteresowanie naukami ścisłymi ,a zwłaszcza chemią. Szcześliwie udało mu sie uzyskać stypendium fundowane przez Konglomerat Przemysłowo-Wydobywczy ,które to pozwoliło mu na opuszczenie rodzinnego domu i rozpoczęcie studiów z branży chemicznej. W trakcie studiów wykazywał również spore zainteresowanie piłką ręczną i przez długi czas grał w uniwersyteckiej drużynie.
-	Po ukończeniu doktoratu Leon wraz z zobowiązaniami wynikającymi z warunków stypendium rozpoczął dobrze płatną pracę w oddziale chemii przemysłowej Konglomeratu Przemysłowo-Wydobywczego. Ze względu na dobre wyniki został on przeniesiony do pracy przy projektach o wysokiej tajności. Rozpoczął on pracę nad innowacyjnym projektem ,którego założeniem było usprawnienie procesu wzbogacania uranu. Projekt wykazywał ogromny potencjał ,lecz w trakcie prac doszło do nieszcześliwego wypadku przy pozyskiwaniu oddczynników w skutek którego Leon stracił rękę. Projekt był realizowany w tajemnicy przez centralą Seader-Krupp w związku z tym po wypadku rozpoczął się proces tuszowania sprawy. Leon dostał ofertę zadośćuczynienia ze strony firmy w zamian za zachowanie całej sprawy w tajemnicy. Dzięki tym funduszom udało mu się nabyć wysokiej klasy protezę ręki. Po tym został przeniesiony do mniejszych projektów. Po zmianach w zarządzie z czasem jego pensja spadła ,a po jakimś czasie został zwolniony w procesie zamknięcia całego oddziału.
-	Leon zdecydował się przenieść ze swoimi umiejętnościami na czarny rynek. Dzięki swojej znajomości chemii był w stanie dorabiać przy produkcji materiałów wybuchowych i narkotyków ,które to sprzedawał na czarnym rynku poprzez pośredników. Niestety duża konkurencja w tym obszarze ,a także ambicje życia na wysokim poziomie Leona spowodowały ,że zdecydował się on dorabiać jako Shadowrunner. Jego sprawność fizyczna (jeszcze z czasów gry w drużynie piłki ręcznej) ,a także dosyć wysokiej klasy "cyber ręka" pozwoliła mu radzić sobie w walce na krótkim dystansie. Z czasem nabywał doświadczenie jak i kolejne usprawnienia bioniczne ,które to spowodowały ,że stał sie profesjonalistą w zwarciu co uzupełniała jego znajomość materiałów wybuchowych.</background>
+  <background>Andrzej wychował się w ubogiej rodzinie na ulicach Warszawy. Od dzieciństwa wykazywał zainteresowanie naukami ścisłymi ,a zwłaszcza chemią. Szcześliwie udało mu sie uzyskać stypendium fundowane przez Konglomerat Przemysłowo-Wydobywczy ,które to pozwoliło mu na opuszczenie rodzinnego domu i rozpoczęcie studiów z branży chemicznej. W trakcie studiów wykazywał również spore zainteresowanie piłką ręczną i przez długi czas grał w uniwersyteckiej drużynie.
+Po ukończeniu doktoratu Andrzej wraz z zobowiązaniami wynikającymi z warunków stypendium rozpoczął dobrze płatną pracę w oddziale chemii przemysłowej Konglomeratu Przemysłowo-Wydobywczego. Ze względu na dobre wyniki został on przeniesiony do pracy przy projektach o wysokiej tajności. Rozpoczął on pracę nad innowacyjnym projektem ,którego założeniem było usprawnienie procesu wzbogacania uranu. Projekt wykazywał ogromny potencjał ,lecz w trakcie prac doszło do nieszcześliwego wypadku przy pozyskiwaniu odczynników. Doszło do wybuchu który zniszczył kombinezon ,a także urwał rękę Andrzeja po czym doszło do rozprysku kwasu w skutek którego Andrzej stracił oczy ,a także zyskał oparzenia na skórze. Projekt był realizowany w tajemnicy przez centralą Seader-Krupp w związku z tym po wypadku rozpoczął się proces tuszowania sprawy. Andrzej dostał ofertę zadośćuczynienia ze strony firmy w zamian za zachowanie całej sprawy w tajemnicy. Dzięki tym funduszom udało mu się nabyć wysokiej klasy protezę ręki. Po tym został przeniesiony do mniejszych projektów. Po zmianach w zarządzie z czasem jego pensja spadła ,a po jakimś czasie został zwolniony w procesie zamknięcia całego oddziału.
+Andrzej zdecydował się przenieść ze swoimi umiejętnościami na czarny rynek. Dzięki swojej znajomości chemii był w stanie dorabiać przy produkcji materiałów wybuchowych i narkotyków ,które to sprzedawał na czarnym rynku poprzez pośredników. Niestety duża konkurencja w tym obszarze ,a także ambicje życia na wysokim poziomie Andrzeja spowodowały ,że zdecydował się on dorabiać jako Shadowrunner. Jego sprawność fizyczna (jeszcze z czasów gry w drużynie piłki ręcznej) ,a także dosyć wysokiej klasy "cyber ręka" pozwoliła mu radzić sobie w walce na krótkim dystansie. Z czasem nabywał doświadczenie jak i kolejne usprawnienia bioniczne ,które to spowodowały ,że stał sie profesjonalistą w zwarciu co uzupełniała jego znajomość materiałów wybuchowych.</background>
   <concept />
   <notes />
-  <alias />
+  <alias>Maverick</alias>
   <playername />
   <gamenotes />
   <primaryarm>Right</primaryarm>
@@ -63,7 +63,7 @@
   <burntstreetcred>0</burntstreetcred>
   <created>False</created>
   <maxavail>12</maxavail>
-  <nuyen>526.000</nuyen>
+  <nuyen>11606.000</nuyen>
   <startingnuyen>275000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -145,9 +145,9 @@
       <metatypemax>6</metatypemax>
       <metatypeaugmax>10</metatypeaugmax>
       <base>1</base>
-      <karma>0</karma>
+      <karma>1</karma>
       <metatypecategory>Standard</metatypecategory>
-      <totalvalue>2</totalvalue>
+      <totalvalue>3</totalvalue>
     </attribute>
     <attribute>
       <name>LOG</name>
@@ -238,7 +238,7 @@
   <groupmember>False</groupmember>
   <groupname />
   <groupnotes />
-  <totaless>2.36</totaless>
+  <totaless>2.56</totaless>
   <physicalcmfilled>0</physicalcmfilled>
   <stuncmfilled>0</stuncmfilled>
   <newskills>
@@ -295,7 +295,7 @@
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
         <karma>0</karma>
-        <base>3</base>
+        <base>2</base>
         <notes />
         <name>Armorer</name>
         <buywithkarma>False</buywithkarma>
@@ -357,7 +357,7 @@
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
         <karma>0</karma>
-        <base>0</base>
+        <base>6</base>
         <notes />
         <name>Blades</name>
         <buywithkarma>False</buywithkarma>
@@ -507,17 +507,10 @@
         <isknowledge>False</isknowledge>
         <skillcategory>Technical Active</skillcategory>
         <karma>0</karma>
-        <base>4</base>
+        <base>0</base>
         <notes />
         <name>First Aid</name>
         <buywithkarma>False</buywithkarma>
-        <specs>
-          <spec>
-            <guid>4833964e-be80-4901-9a4a-ac1d087e4e33</guid>
-            <name>Burns</name>
-            <free>False</free>
-          </spec>
-        </specs>
       </skill>
       <skill>
         <guid>82a1c07e-013c-4a66-829a-21f717b73088</guid>
@@ -569,7 +562,7 @@
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
         <karma>0</karma>
-        <base>4</base>
+        <base>0</base>
         <notes />
         <name>Gymnastics</name>
         <buywithkarma>False</buywithkarma>
@@ -822,10 +815,17 @@
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
         <karma>0</karma>
-        <base>0</base>
+        <base>6</base>
         <notes />
         <name>Pistols</name>
         <buywithkarma>False</buywithkarma>
+        <specs>
+          <spec>
+            <guid>3f4c3b32-3f58-425a-8a19-65e1d4da7c25</guid>
+            <name>Semi-Automatics</name>
+            <free>False</free>
+          </spec>
+        </specs>
       </skill>
       <skill>
         <guid>66ee5661-b542-4a4b-8b1b-b87ead14c521</guid>
@@ -833,7 +833,7 @@
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
         <karma>0</karma>
-        <base>4</base>
+        <base>0</base>
         <notes />
         <name>Running</name>
         <buywithkarma>False</buywithkarma>
@@ -877,7 +877,7 @@
         <isknowledge>False</isknowledge>
         <skillcategory>Physical Active</skillcategory>
         <karma>0</karma>
-        <base>1</base>
+        <base>0</base>
         <notes />
         <name>Swimming</name>
         <buywithkarma>False</buywithkarma>
@@ -910,7 +910,7 @@
         <isknowledge>False</isknowledge>
         <skillcategory>Combat Active</skillcategory>
         <karma>0</karma>
-        <base>0</base>
+        <base>2</base>
         <notes />
         <name>Unarmed Combat</name>
         <buywithkarma>False</buywithkarma>
@@ -918,15 +918,15 @@
     </skills>
     <knoskills>
       <skill>
-        <guid>64cbde13-3a5f-4371-ac05-4fcda7c2c246</guid>
-        <suid>907a3a8f-2c40-4543-a5a9-891bcde41f6b</suid>
+        <guid>75172d96-03f9-4529-b6d0-1c8759ff9753</guid>
+        <suid>5fc15c3f-7b1c-4b87-a469-ccefb7d60820</suid>
         <isknowledge>True</isknowledge>
         <skillcategory>Language</skillcategory>
         <karma>0</karma>
         <base>0</base>
         <notes />
         <buywithkarma>False</buywithkarma>
-        <name>English</name>
+        <name>Polish</name>
         <type>Language</type>
       </skill>
       <skill>
@@ -973,7 +973,7 @@
         <isknowledge>True</isknowledge>
         <skillcategory>Professional</skillcategory>
         <karma>0</karma>
-        <base>1</base>
+        <base>3</base>
         <notes />
         <buywithkarma>False</buywithkarma>
         <name>Architecture</name>
@@ -1002,7 +1002,7 @@
       </group>
       <group>
         <karma>0</karma>
-        <base>4</base>
+        <base>0</base>
         <id>2a960add-625f-43da-9a6c-2f2b383dfaf2</id>
         <name>Firearms</name>
       </group>
@@ -1026,19 +1026,19 @@
       </group>
       <group>
         <karma>0</karma>
-        <base>6</base>
+        <base>0</base>
         <id>c11a243c-5c12-47b0-8f39-5336b5b9d3fa</id>
         <name>Close Combat</name>
       </group>
       <group>
         <karma>0</karma>
-        <base>0</base>
+        <base>4</base>
         <id>f40c53a6-ee3e-428b-a75a-1ec9fb3a0165</id>
         <name>Biotech</name>
       </group>
       <group>
         <karma>0</karma>
-        <base>0</base>
+        <base>6</base>
         <id>58228594-3b5f-45c4-b1dd-b3b7e3e51918</id>
         <name>Athletics</name>
       </group>
@@ -1057,13 +1057,13 @@
       <location>Północny Widzew</location>
       <connection>4</connection>
       <loyalty>2</loyalty>
-      <metatype />
-      <sex />
-      <age />
-      <contacttype />
-      <preferredpayment />
-      <hobbiesvice />
-      <personallife />
+      <metatype>Ork</metatype>
+      <sex>Male</sex>
+      <age>Middle-Aged</age>
+      <contacttype>Fence</contacttype>
+      <preferredpayment>Barter (Profession Items)</preferredpayment>
+      <hobbiesvice>Social Habit (Cigars)</hobbiesvice>
+      <personallife>Unknown</personallife>
       <type>Contact</type>
       <file />
       <relative />
@@ -1569,7 +1569,7 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </weapon>
     <weapon>
       <sourceid>2eccd04e-e85c-402e-8c3a-80686e9ec217</sourceid>
@@ -1649,7 +1649,7 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
     </weapon>
     <weapon>
       <sourceid>656906d8-b6a4-47a2-9554-de365097eba0</sourceid>
@@ -1729,87 +1729,7 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
-    </weapon>
-    <weapon>
-      <sourceid>a47e8191-869a-456e-b376-ed04ba7a59f0</sourceid>
-      <guid>39783504-6bda-40b6-87fa-7233f1149f81</guid>
-      <name>Ballistic Shield</name>
-      <category>Exotic Melee Weapons</category>
-      <type>Melee</type>
-      <spec>Shields</spec>
-      <spec2 />
-      <reach>0</reach>
-      <damage>(STR+2)S</damage>
-      <ap>0</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>0</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoname />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>Skill</firingmode>
-      <minrating />
-      <maxrating>0</maxrating>
-      <rating>0</rating>
-      <clips />
-      <conceal>8</conceal>
-      <avail>12R</avail>
-      <cost>0</cost>
-      <useskill />
-      <useskillspec />
-      <range />
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SR5</source>
-      <page>438</page>
-      <parentid>f9a934a2-cc7b-4812-baea-f2d8ec06409c</parentid>
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>4</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <location />
-      <notes />
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>3</sortorder>
     </weapon>
     <weapon>
       <sourceid>971c711b-db32-4339-9203-865ef38f350e</sourceid>
@@ -1992,7 +1912,7 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
           </gears>
           <ammoreplace />
@@ -2068,7 +1988,7 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </accessory>
         <accessory>
           <sourceid>d5abeadd-fba4-47f9-ac35-bfbb31ce34be</sourceid>
@@ -2116,7 +2036,7 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </accessory>
         <accessory>
           <sourceid>d40d2fc6-3aad-4793-843d-20e3597b2365</sourceid>
@@ -2164,7 +2084,7 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
           <wirelesson>False</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
         </accessory>
       </accessories>
       <location />
@@ -2191,7 +2111,7 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>False</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>4</sortorder>
     </weapon>
   </weapons>
   <cyberwares>
@@ -2729,6 +2649,420 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
               <sortorder>0</sortorder>
             </cyberware>
           </children>
+          <gears>
+            <gear>
+              <sourceid>2d4edef2-2891-4383-83f6-81f05cfbd046</sourceid>
+              <guid>c84355bb-2ffa-43d3-a50b-8cebdf4d6594</guid>
+              <name>Single Sensor</name>
+              <category>Sensors</category>
+              <capacity>1/[1]</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating>2</minrating>
+              <maxrating>8</maxrating>
+              <rating>8</rating>
+              <qty>1.0</qty>
+              <avail>5</avail>
+              <cost>Rating * 100</cost>
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <source>SR5</source>
+              <page>445</page>
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid />
+              <allowrename>False</allowrename>
+              <children>
+                <gear>
+                  <sourceid>e140b671-dc22-429d-b12a-dfbf46951049</sourceid>
+                  <guid>1d182491-308a-405d-a87a-056c7f99efe6</guid>
+                  <name>Ultrasound</name>
+                  <category>Sensor Functions</category>
+                  <capacity>[1]</capacity>
+                  <armorcapacity>[1]</armorcapacity>
+                  <minrating />
+                  <maxrating />
+                  <rating>0</rating>
+                  <qty>1.0</qty>
+                  <avail>0</avail>
+                  <cost>0</cost>
+                  <extra />
+                  <bonded>False</bonded>
+                  <equipped>True</equipped>
+                  <wirelesson>False</wirelesson>
+                  <stolen>False</stolen>
+                  <bonus />
+                  <wirelessbonus />
+                  <source>SR5</source>
+                  <page>446</page>
+                  <canformpersona />
+                  <devicerating />
+                  <gearname />
+                  <forcedvalue />
+                  <matrixcmfilled>0</matrixcmfilled>
+                  <matrixcmbonus>0</matrixcmbonus>
+                  <parentid />
+                  <allowrename>False</allowrename>
+                  <children />
+                  <location />
+                  <notes />
+                  <discountedcost>False</discountedcost>
+                  <programlimit />
+                  <overclocked>None</overclocked>
+                  <attack />
+                  <sleaze />
+                  <dataprocessing />
+                  <firewall />
+                  <attributearray />
+                  <modattack />
+                  <modsleaze />
+                  <moddataprocessing />
+                  <modfirewall />
+                  <modattributearray />
+                  <canswapattributes>False</canswapattributes>
+                  <active>False</active>
+                  <homenode>False</homenode>
+                  <sortorder>0</sortorder>
+                </gear>
+              </children>
+              <location />
+              <notes />
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>2d4edef2-2891-4383-83f6-81f05cfbd046</sourceid>
+              <guid>b7aa47e1-6e49-414b-a8f6-dd3b207b0e1d</guid>
+              <name>Single Sensor</name>
+              <category>Sensors</category>
+              <capacity>1/[1]</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating>2</minrating>
+              <maxrating>8</maxrating>
+              <rating>8</rating>
+              <qty>1.0</qty>
+              <avail>5</avail>
+              <cost>Rating * 100</cost>
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <source>SR5</source>
+              <page>445</page>
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid />
+              <allowrename>False</allowrename>
+              <children>
+                <gear>
+                  <sourceid>ce63e6c6-409a-49dd-bdcc-f8efb2f9dadf</sourceid>
+                  <guid>0820ae4f-840b-4d0a-aa55-ae29eb8a69a8</guid>
+                  <name>X-Ray</name>
+                  <category>Sensor Functions</category>
+                  <capacity>[1]</capacity>
+                  <armorcapacity>[1]</armorcapacity>
+                  <minrating />
+                  <maxrating />
+                  <rating>0</rating>
+                  <qty>1.0</qty>
+                  <avail>0</avail>
+                  <cost>0</cost>
+                  <extra />
+                  <bonded>False</bonded>
+                  <equipped>True</equipped>
+                  <wirelesson>False</wirelesson>
+                  <stolen>False</stolen>
+                  <bonus />
+                  <wirelessbonus />
+                  <source>R5</source>
+                  <page>138</page>
+                  <canformpersona />
+                  <devicerating />
+                  <gearname />
+                  <forcedvalue />
+                  <matrixcmfilled>0</matrixcmfilled>
+                  <matrixcmbonus>0</matrixcmbonus>
+                  <parentid />
+                  <allowrename>False</allowrename>
+                  <children />
+                  <location />
+                  <notes />
+                  <discountedcost>False</discountedcost>
+                  <programlimit />
+                  <overclocked>None</overclocked>
+                  <attack />
+                  <sleaze />
+                  <dataprocessing />
+                  <firewall />
+                  <attributearray />
+                  <modattack />
+                  <modsleaze />
+                  <moddataprocessing />
+                  <modfirewall />
+                  <modattributearray />
+                  <canswapattributes>False</canswapattributes>
+                  <active>False</active>
+                  <homenode>False</homenode>
+                  <sortorder>0</sortorder>
+                </gear>
+              </children>
+              <location />
+              <notes />
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>2d4edef2-2891-4383-83f6-81f05cfbd046</sourceid>
+              <guid>27ebe694-5888-4d97-8300-42d239733968</guid>
+              <name>Single Sensor</name>
+              <category>Sensors</category>
+              <capacity>1/[1]</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating>2</minrating>
+              <maxrating>8</maxrating>
+              <rating>8</rating>
+              <qty>1.0</qty>
+              <avail>5</avail>
+              <cost>Rating * 100</cost>
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <source>SR5</source>
+              <page>445</page>
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid />
+              <allowrename>False</allowrename>
+              <children>
+                <gear>
+                  <sourceid>c763fac2-8b08-4c61-8dc2-6291d905a2df</sourceid>
+                  <guid>bb9e5f79-b86b-4693-981b-5e7b34833480</guid>
+                  <name>Olfactory Scanner</name>
+                  <category>Sensor Functions</category>
+                  <capacity>[1]</capacity>
+                  <armorcapacity>[1]</armorcapacity>
+                  <minrating />
+                  <maxrating />
+                  <rating>0</rating>
+                  <qty>1.0</qty>
+                  <avail>0</avail>
+                  <cost>0</cost>
+                  <extra />
+                  <bonded>False</bonded>
+                  <equipped>True</equipped>
+                  <wirelesson>False</wirelesson>
+                  <stolen>False</stolen>
+                  <bonus />
+                  <wirelessbonus />
+                  <source>SR5</source>
+                  <page>446</page>
+                  <canformpersona />
+                  <devicerating />
+                  <gearname />
+                  <forcedvalue />
+                  <matrixcmfilled>0</matrixcmfilled>
+                  <matrixcmbonus>0</matrixcmbonus>
+                  <parentid />
+                  <allowrename>False</allowrename>
+                  <children />
+                  <location />
+                  <notes />
+                  <discountedcost>False</discountedcost>
+                  <programlimit />
+                  <overclocked>None</overclocked>
+                  <attack />
+                  <sleaze />
+                  <dataprocessing />
+                  <firewall />
+                  <attributearray />
+                  <modattack />
+                  <modsleaze />
+                  <moddataprocessing />
+                  <modfirewall />
+                  <modattributearray />
+                  <canswapattributes>False</canswapattributes>
+                  <active>False</active>
+                  <homenode>False</homenode>
+                  <sortorder>0</sortorder>
+                </gear>
+              </children>
+              <location />
+              <notes />
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>2d4edef2-2891-4383-83f6-81f05cfbd046</sourceid>
+              <guid>b00378ec-a059-477d-86bc-9b7f43c8d61e</guid>
+              <name>Single Sensor</name>
+              <category>Sensors</category>
+              <capacity>1/[1]</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating>2</minrating>
+              <maxrating>8</maxrating>
+              <rating>8</rating>
+              <qty>1.0</qty>
+              <avail>5</avail>
+              <cost>Rating * 100</cost>
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <source>SR5</source>
+              <page>445</page>
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid />
+              <allowrename>False</allowrename>
+              <children>
+                <gear>
+                  <sourceid>d98f419f-7625-4228-9723-0217950d8155</sourceid>
+                  <guid>9ba09c5a-b619-45c7-a3dc-8d6056321d05</guid>
+                  <name>Geiger Counter</name>
+                  <category>Sensor Functions</category>
+                  <capacity>[1]</capacity>
+                  <armorcapacity>[1]</armorcapacity>
+                  <minrating />
+                  <maxrating />
+                  <rating>0</rating>
+                  <qty>1.0</qty>
+                  <avail>0</avail>
+                  <cost>0</cost>
+                  <extra />
+                  <bonded>False</bonded>
+                  <equipped>True</equipped>
+                  <wirelesson>False</wirelesson>
+                  <stolen>False</stolen>
+                  <bonus />
+                  <wirelessbonus />
+                  <source>SR5</source>
+                  <page>446</page>
+                  <canformpersona />
+                  <devicerating />
+                  <gearname />
+                  <forcedvalue />
+                  <matrixcmfilled>0</matrixcmfilled>
+                  <matrixcmbonus>0</matrixcmbonus>
+                  <parentid />
+                  <allowrename>False</allowrename>
+                  <children />
+                  <location />
+                  <notes />
+                  <discountedcost>False</discountedcost>
+                  <programlimit />
+                  <overclocked>None</overclocked>
+                  <attack />
+                  <sleaze />
+                  <dataprocessing />
+                  <firewall />
+                  <attributearray />
+                  <modattack />
+                  <modsleaze />
+                  <moddataprocessing />
+                  <modfirewall />
+                  <modattributearray />
+                  <canswapattributes>False</canswapattributes>
+                  <active>False</active>
+                  <homenode>False</homenode>
+                  <sortorder>0</sortorder>
+                </gear>
+              </children>
+              <location />
+              <notes />
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+          </gears>
           <notes />
           <discountedcost>False</discountedcost>
           <addtoparentess>False</addtoparentess>
@@ -3330,77 +3664,77 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
           <canswapattributes>False</canswapattributes>
           <sortorder>0</sortorder>
         </cyberware>
+        <cyberware>
+          <sourceid>19cea27d-b57b-46b1-9604-3362974f68ff</sourceid>
+          <guid>814246fa-43f9-49d8-a2a6-d8ea8b2bd358</guid>
+          <name>Eye Protectors (Ballistic Glass)</name>
+          <category>Eyeware</category>
+          <limbslot />
+          <limbslotcount>1</limbslotcount>
+          <inheritattributes>False</inheritattributes>
+          <ess>0.1</ess>
+          <capacity>[2]</capacity>
+          <avail>0</avail>
+          <cost>100</cost>
+          <source>CF</source>
+          <page>76</page>
+          <parentid />
+          <hasmodularmount />
+          <plugsintomodularmount />
+          <blocksmounts />
+          <forced />
+          <rating>0</rating>
+          <minrating />
+          <maxrating />
+          <ratinglabel>String_Rating</ratinglabel>
+          <subsystems />
+          <wirelesson>False</wirelesson>
+          <grade>Alphaware</grade>
+          <location />
+          <extra />
+          <suite>False</suite>
+          <stolen>False</stolen>
+          <essdiscount>0</essdiscount>
+          <extraessadditivemultiplier>0</extraessadditivemultiplier>
+          <extraessmultiplicativemultiplier>1.0</extraessmultiplicativemultiplier>
+          <forcegrade />
+          <matrixcmfilled>0</matrixcmfilled>
+          <prototypetranshuman>False</prototypetranshuman>
+          <bonus />
+          <pairbonus />
+          <wirelessbonus />
+          <wirelesspairbonus />
+          <improvementsource>Cyberware</improvementsource>
+          <pairinclude>
+            <name>Eye Protectors (Ballistic Glass)</name>
+          </pairinclude>
+          <wirelesspairinclude>
+            <name>Eye Protectors (Ballistic Glass)</name>
+          </wirelesspairinclude>
+          <children />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <addtoparentess>False</addtoparentess>
+          <addtoparentcapacity>False</addtoparentcapacity>
+          <active>False</active>
+          <homenode>False</homenode>
+          <devicerating />
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <sortorder>0</sortorder>
+        </cyberware>
       </children>
-      <notes />
-      <discountedcost>False</discountedcost>
-      <addtoparentess>False</addtoparentess>
-      <addtoparentcapacity>False</addtoparentcapacity>
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <sortorder>0</sortorder>
-    </cyberware>
-    <cyberware>
-      <sourceid>92e9d8e5-b9aa-4786-add3-a1d1f82b8ec0</sourceid>
-      <guid>13bfe987-7c4d-4dde-8026-3c240c072b75</guid>
-      <name>Ultrasound Sensor</name>
-      <category>Headware</category>
-      <limbslot />
-      <limbslotcount>1</limbslotcount>
-      <inheritattributes>False</inheritattributes>
-      <ess>0.25</ess>
-      <capacity>[2]</capacity>
-      <avail>10</avail>
-      <cost>Rating * 12000</cost>
-      <source>SR5</source>
-      <page>452</page>
-      <parentid />
-      <hasmodularmount />
-      <plugsintomodularmount />
-      <blocksmounts />
-      <forced />
-      <rating>1</rating>
-      <minrating />
-      <maxrating>6</maxrating>
-      <ratinglabel>String_Rating</ratinglabel>
-      <subsystems />
-      <wirelesson>False</wirelesson>
-      <grade>Alphaware</grade>
-      <location />
-      <extra />
-      <suite>False</suite>
-      <stolen>False</stolen>
-      <essdiscount>0</essdiscount>
-      <extraessadditivemultiplier>0</extraessadditivemultiplier>
-      <extraessmultiplicativemultiplier>1.0</extraessmultiplicativemultiplier>
-      <forcegrade />
-      <matrixcmfilled>0</matrixcmfilled>
-      <prototypetranshuman>False</prototypetranshuman>
-      <bonus />
-      <pairbonus />
-      <wirelessbonus />
-      <wirelesspairbonus />
-      <improvementsource>Cyberware</improvementsource>
-      <pairinclude>
-        <name>Ultrasound Sensor</name>
-      </pairinclude>
-      <wirelesspairinclude>
-        <name>Ultrasound Sensor</name>
-      </wirelesspairinclude>
-      <children />
       <notes />
       <discountedcost>False</discountedcost>
       <addtoparentess>False</addtoparentess>
@@ -3806,6 +4140,98 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
       </firstlevelbonus>
       <notes />
     </quality>
+    <quality>
+      <sourceid>8bca877e-42e5-4ff7-92ec-4c83f4cadb86</sourceid>
+      <guid>30154038-16ec-4ff6-bd70-35e514ee3431</guid>
+      <name>Did You Just Call Me Dumb?</name>
+      <extra />
+      <bp>-3</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>154</page>
+      <sourcename />
+      <bonus>
+      </bonus>
+      <firstlevelbonus />
+      <notes />
+    </quality>
+    <quality>
+      <sourceid>6b9c009f-613b-4d3f-82c6-53e191c4e095</sourceid>
+      <guid>950a2f44-5c81-491f-b13d-c8cb17e8be68</guid>
+      <name>Superhuman Psychosis</name>
+      <extra />
+      <bp>-2</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>CF</source>
+      <page>59</page>
+      <sourcename />
+      <bonus>
+        <skillgroup>
+          <name>Close Combat</name>
+          <bonus>1</bonus>
+        </skillgroup>
+        <specificskill>
+          <name>Exotic Melee Weapon</name>
+          <bonus>1</bonus>
+        </specificskill>
+        <specificskill>
+          <name>Etiquette</name>
+          <bonus>-2</bonus>
+        </specificskill>
+        <specificskill>
+          <name>Leadership</name>
+          <bonus>-2</bonus>
+        </specificskill>
+      </bonus>
+      <firstlevelbonus />
+      <notes />
+    </quality>
+    <quality>
+      <sourceid>e89db285-8db9-4a9c-80cb-94d87b86a80b</sourceid>
+      <guid>1241da3e-eb58-4370-829b-f66fab257b43</guid>
+      <name>Allergy (Common, Mild)</name>
+      <extra>Lactose</extra>
+      <bp>-10</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>78</page>
+      <sourcename />
+      <bonus>
+        <selecttext />
+      </bonus>
+      <firstlevelbonus />
+      <notes />
+    </quality>
   </qualities>
   <lifestyles>
     <lifestyle>
@@ -3984,7 +4410,8 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
           <bonus>
             <selectrestricted />
           </bonus>
-          <wirelessbonus />
+          <wirelessbonus>
+          </wirelessbonus>
           <source>SR5</source>
           <page>443</page>
           <canformpersona />
@@ -4037,7 +4464,8 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
           <bonus>
             <selectrestricted />
           </bonus>
-          <wirelessbonus />
+          <wirelessbonus>
+          </wirelessbonus>
           <source>SR5</source>
           <page>443</page>
           <canformpersona />
@@ -4090,7 +4518,8 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
           <bonus>
             <selectrestricted />
           </bonus>
-          <wirelessbonus />
+          <wirelessbonus>
+          </wirelessbonus>
           <source>SR5</source>
           <page>443</page>
           <canformpersona />
@@ -4143,7 +4572,8 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
           <bonus>
             <selectrestricted />
           </bonus>
-          <wirelessbonus />
+          <wirelessbonus>
+          </wirelessbonus>
           <source>SR5</source>
           <page>443</page>
           <canformpersona />
@@ -5875,29 +6305,6 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
       <notes />
     </improvement>
     <improvement>
-      <target />
-      <improvedname />
-      <sourcename>c7328574-fc00-4eb9-8a22-83773c4e43e7</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>2</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Armor</improvementttype>
-      <improvementsource>Cyberware</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>False</addtorating>
-      <enabled>True</enabled>
-      <order>0</order>
-      <notes />
-    </improvement>
-    <improvement>
       <unique>group0</unique>
       <target />
       <improvedname />
@@ -6590,6 +6997,144 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
       <order>0</order>
       <notes />
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>Close Combat</improvedname>
+      <sourcename>950a2f44-5c81-491f-b13d-c8cb17e8be68</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SkillGroup</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Exotic Melee Weapon</improvedname>
+      <sourcename>950a2f44-5c81-491f-b13d-c8cb17e8be68</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Skill</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Etiquette</improvedname>
+      <sourcename>950a2f44-5c81-491f-b13d-c8cb17e8be68</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>-2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Skill</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Leadership</improvedname>
+      <sourcename>950a2f44-5c81-491f-b13d-c8cb17e8be68</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>-2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Skill</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Lactose</improvedname>
+      <sourcename>1241da3e-eb58-4370-829b-f66fab257b43</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>c7328574-fc00-4eb9-8a22-83773c4e43e7</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Armor</improvementttype>
+      <improvementsource>Cyberware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
   </improvements>
   <drugs />
   <mentorspirits />
@@ -6604,6 +7149,7 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
     <source>RG</source>
     <source>SR5</source>
     <source>HT</source>
+    <source>R5</source>
     <source>CF</source>
     <source>RF</source>
     <source>SS</source>
@@ -6619,15 +7165,15 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
   <plugins>
     <ChummerHub.Client version="1.0.0.4">{
   "DownloadedFromSINnersTime": "0001-01-01T00:00:00",
-  "ZipFilePath": "C:\\Users\\kapol\\AppData\\Local\\Temp\\SINner\\bcbf9e00-a2ef-40eb-aa6c-ce4b48a137b2",
+  "ZipFilePath": "C:\\Users\\kapol\\AppData\\Local\\Temp\\SINner\\7d40152c-8772-46ab-904c-f37e5fb390c2",
   "FilePath": null,
   "editionNumber": null,
   "myHash": null,
   "language": "en-us",
   "siNnerMetaData": {
-    "id": "55f669b2-3bfb-4796-a7fb-da7dd4a7ffbb",
+    "id": "b92160ce-50f1-43ec-af22-6c1d7d6fe676",
     "visibility": {
-      "id": "df4ee984-a3cb-4145-a1b3-b7da4dd85a06",
+      "id": "e3366621-9ead-453e-89b6-66724efde3fb",
       "isPublic": true,
       "isGroupVisible": true,
       "userRights": null
@@ -6637,10 +7183,10 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
   "lastDownload": null,
   "myGroup": null,
   "alias": null,
-  "id": "bcbf9e00-a2ef-40eb-aa6c-ce4b48a137b2",
+  "id": "7d40152c-8772-46ab-904c-f37e5fb390c2",
   "downloadUrl": null,
   "uploadDateTime": null,
-  "lastChange": "2020-08-12T18:15:02.5753467Z",
+  "lastChange": "2020-08-13T22:56:28.9391206Z",
   "fileName": null
 }</ChummerHub.Client>
   </plugins>
