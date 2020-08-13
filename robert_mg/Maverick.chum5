@@ -63,7 +63,7 @@ Andrzej zdecydował się przenieść ze swoimi umiejętnościami na czarny rynek
   <burntstreetcred>0</burntstreetcred>
   <created>False</created>
   <maxavail>12</maxavail>
-  <nuyen>11606.000</nuyen>
+  <nuyen>2906.000</nuyen>
   <startingnuyen>275000</startingnuyen>
   <sumtoten>10</sumtoten>
   <buildkarma>25</buildkarma>
@@ -238,7 +238,7 @@ Andrzej zdecydował się przenieść ze swoimi umiejętnościami na czarny rynek
   <groupmember>False</groupmember>
   <groupname />
   <groupnotes />
-  <totaless>2.56</totaless>
+  <totaless>2.46</totaless>
   <physicalcmfilled>0</physicalcmfilled>
   <stuncmfilled>0</stuncmfilled>
   <newskills>
@@ -930,31 +930,12 @@ Andrzej zdecydował się przenieść ze swoimi umiejętnościami na czarny rynek
         <type>Language</type>
       </skill>
       <skill>
-        <guid>49d1d82d-aa6a-4ebb-b5ef-0160fbe4b76b</guid>
-        <suid>cbb44acf-10cd-4b67-afc6-bf28efe74ea4</suid>
-        <isknowledge>True</isknowledge>
-        <skillcategory>Academic</skillcategory>
-        <karma>0</karma>
-        <base>6</base>
-        <notes />
-        <buywithkarma>False</buywithkarma>
-        <specs>
-          <spec>
-            <guid>43b9d123-a3fa-46f4-9c19-36e8f9ae2f00</guid>
-            <name>Chemical</name>
-            <free>False</free>
-          </spec>
-        </specs>
-        <name>Engineering</name>
-        <type>Academic</type>
-      </skill>
-      <skill>
         <guid>9437b78d-1359-41d8-9b2f-ba115c9bcd65</guid>
         <suid>6331a44a-ad26-4b08-8b7a-2dbe3c2d0584</suid>
         <isknowledge>True</isknowledge>
         <skillcategory>Street</skillcategory>
         <karma>0</karma>
-        <base>3</base>
+        <base>1</base>
         <notes />
         <buywithkarma>False</buywithkarma>
         <specs>
@@ -971,13 +952,56 @@ Andrzej zdecydował się przenieść ze swoimi umiejętnościami na czarny rynek
         <guid>248fbb5a-447d-4a6c-95d6-34a686ea1537</guid>
         <suid>6cc80a0b-a9e2-46fe-8951-af4f34bfe3b3</suid>
         <isknowledge>True</isknowledge>
-        <skillcategory>Professional</skillcategory>
+        <skillcategory>Interest</skillcategory>
+        <karma>0</karma>
+        <base>1</base>
+        <notes />
+        <buywithkarma>False</buywithkarma>
+        <name>Architecture</name>
+        <type>Interest</type>
+      </skill>
+      <skill>
+        <guid>abcce4f2-0456-4194-b728-264ad16df438</guid>
+        <suid>00000000-0000-0000-0000-000000000000</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Interest</skillcategory>
         <karma>0</karma>
         <base>3</base>
         <notes />
         <buywithkarma>False</buywithkarma>
-        <name>Architecture</name>
+        <name>Ornithology</name>
+        <type>Interest</type>
+      </skill>
+      <skill>
+        <guid>b62d6622-96b1-4646-8e66-cc871ece4895</guid>
+        <suid>8db5cc64-5dc4-4ae9-a56b-e0c54a6e2413</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Professional</skillcategory>
+        <karma>0</karma>
+        <base>2</base>
+        <notes />
+        <buywithkarma>False</buywithkarma>
+        <specs>
+          <spec>
+            <guid>6709c18f-98ce-4c8f-b8e6-8cde881ead93</guid>
+            <name>Saeder-Krupp Heavy Industries</name>
+            <free>False</free>
+          </spec>
+        </specs>
+        <name>Corporation: Saeder-Krupp</name>
         <type>Professional</type>
+      </skill>
+      <skill>
+        <guid>25c78fbf-04d9-4980-836f-afd5e5aa8052</guid>
+        <suid>40d28f1b-2171-4a3b-a640-6b097a4dea95</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Interest</skillcategory>
+        <karma>0</karma>
+        <base>5</base>
+        <notes />
+        <buywithkarma>False</buywithkarma>
+        <name>Alcohol</name>
+        <type>Interest</type>
       </skill>
     </knoskills>
     <skilljackknowledgeskills />
@@ -1062,7 +1086,7 @@ Andrzej zdecydował się przenieść ze swoimi umiejętnościami na czarny rynek
       <age>Middle-Aged</age>
       <contacttype>Fence</contacttype>
       <preferredpayment>Barter (Profession Items)</preferredpayment>
-      <hobbiesvice>Social Habit (Cigars)</hobbiesvice>
+      <hobbiesvice>Social Habit (Alcohol)</hobbiesvice>
       <personallife>Unknown</personallife>
       <type>Contact</type>
       <file />
@@ -3712,7 +3736,12 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
             <name>Eye Protectors (Ballistic Glass)</name>
           </wirelesspairinclude>
           <children />
-          <notes />
+          <notes>These are simple protective covers that go over the user’s
+eyes, preventing them from being harmed by dust
+and debris. They’re available in a wide array of color and
+style, as well as in plastic (Armor 3, just for the eyes) or
+ballistic glass (Armor 6, just for the eyes).
+</notes>
           <discountedcost>False</discountedcost>
           <addtoparentess>False</addtoparentess>
           <addtoparentcapacity>False</addtoparentcapacity>
@@ -3860,7 +3889,18 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
             <name>Improved Synthskin</name>
           </wirelesspairinclude>
           <children />
-          <notes />
+          <notes>Advances in lifelike drones have also been adapted to
+core synthetic cyberlimb technology. Where once flesh
+was passable for viewing but betrayed by a touch, the
+more advanced synthskin of today is giving, warm to
+the touch, and more expensive blends sweat or even
+bleed when pricked. It’s like real, only better!
+
+Where normal synthetic limbs may be detected automatically
+by touch, those coated in improved synthskin
+require a Perception Test to be detected, requiring two
+hits, plus one more for each Rating. Cyberware scanners
+are as effective as normal, however.</notes>
           <discountedcost>False</discountedcost>
           <addtoparentess>False</addtoparentess>
           <addtoparentcapacity>False</addtoparentcapacity>
@@ -3977,6 +4017,83 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
       </wirelesspairinclude>
       <children />
       <notes />
+      <discountedcost>False</discountedcost>
+      <addtoparentess>False</addtoparentess>
+      <addtoparentcapacity>False</addtoparentcapacity>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <sortorder>0</sortorder>
+    </cyberware>
+    <cyberware>
+      <sourceid>857bbf66-3fab-466b-9c2c-f302340e3788</sourceid>
+      <guid>1121c90e-b46c-4605-aedc-3c8098ea9a91</guid>
+      <name>Insulation</name>
+      <category>Orthoskin Upgrades</category>
+      <limbslot />
+      <limbslotcount>1</limbslotcount>
+      <inheritattributes>False</inheritattributes>
+      <ess>0.1</ess>
+      <capacity>0</capacity>
+      <avail>8</avail>
+      <cost>8000</cost>
+      <source>CF</source>
+      <page>116</page>
+      <parentid />
+      <hasmodularmount />
+      <plugsintomodularmount />
+      <blocksmounts />
+      <forced />
+      <rating>0</rating>
+      <minrating />
+      <maxrating />
+      <ratinglabel>String_Rating</ratinglabel>
+      <subsystems />
+      <wirelesson>False</wirelesson>
+      <grade>Standard</grade>
+      <location />
+      <extra />
+      <suite>False</suite>
+      <stolen>False</stolen>
+      <essdiscount>0</essdiscount>
+      <extraessadditivemultiplier>0</extraessadditivemultiplier>
+      <extraessmultiplicativemultiplier>1.0</extraessmultiplicativemultiplier>
+      <forcegrade />
+      <matrixcmfilled>0</matrixcmfilled>
+      <prototypetranshuman>False</prototypetranshuman>
+      <bonus>
+        <electricityarmor>2</electricityarmor>
+      </bonus>
+      <pairbonus />
+      <wirelessbonus />
+      <wirelesspairbonus />
+      <improvementsource>Bioware</improvementsource>
+      <pairinclude>
+        <name>Insulation</name>
+      </pairinclude>
+      <wirelesspairinclude>
+        <name>Insulation</name>
+      </wirelesspairinclude>
+      <children />
+      <notes>Use of non-conductive materials leaves the user more
+resistant against electrical discharges, keeping the vulnerable
+organs inside safer than before.
+
+The user gains +2 Body for resisting electrical
+damage. This is not compatible with electroshock.</notes>
       <discountedcost>False</discountedcost>
       <addtoparentess>False</addtoparentess>
       <addtoparentcapacity>False</addtoparentcapacity>
@@ -6067,6 +6184,163 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
       <homenode>False</homenode>
       <sortorder>0</sortorder>
     </gear>
+    <gear>
+      <sourceid>2633cf38-90a6-4843-b475-e3ee1132fb5f</sourceid>
+      <guid>4b7ce696-94f3-4f7a-99f1-52bbfab57a6e</guid>
+      <name>Gas Mask</name>
+      <category>Survival Gear</category>
+      <capacity />
+      <armorcapacity>[2]</armorcapacity>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>2</qty>
+      <avail>0</avail>
+      <cost>200</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <toxininhalationimmune />
+        <pathogeninhalationimmune />
+      </bonus>
+      <wirelessbonus />
+      <source>SR5</source>
+      <page>449</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>1a3a9204-959b-4db5-83de-094f921c5e7f</sourceid>
+      <guid>66263330-ecfc-450a-9ac8-645822025da7</guid>
+      <name>Contacts</name>
+      <category>Vision Devices</category>
+      <capacity>Rating</capacity>
+      <armorcapacity />
+      <minrating />
+      <maxrating>3</maxrating>
+      <rating>1</rating>
+      <qty>1.0</qty>
+      <avail>6</avail>
+      <cost>Rating * 200</cost>
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <source>SR5</source>
+      <page>443</page>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children>
+        <gear>
+          <sourceid>badca1de-593e-4bae-9a0b-e40528c0774e</sourceid>
+          <guid>17a9a144-e9f8-46b0-bad7-ce39b0cd16a5</guid>
+          <name>Polychromic Lens</name>
+          <category>Tools of the Trade</category>
+          <capacity>[1]</capacity>
+          <armorcapacity>[1]</armorcapacity>
+          <minrating />
+          <maxrating />
+          <rating>0</rating>
+          <qty>1.0</qty>
+          <avail>0</avail>
+          <cost>100</cost>
+          <extra />
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus />
+          <wirelessbonus />
+          <source>HT</source>
+          <page>188</page>
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>False</allowrename>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+      </children>
+      <location />
+      <notes />
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
   </gears>
   <vehicles>
     <vehicle>
@@ -7135,6 +7409,75 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
       <order>0</order>
       <notes />
     </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>4b7ce696-94f3-4f7a-99f1-52bbfab57a6e</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ToxinInhalationImmune</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>4b7ce696-94f3-4f7a-99f1-52bbfab57a6e</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>PathogenInhalationImmune</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>1121c90e-b46c-4605-aedc-3c8098ea9a91</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ElectricityArmor</improvementttype>
+      <improvementsource>Bioware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
   </improvements>
   <drugs />
   <mentorspirits />
@@ -7171,9 +7514,9 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
   "myHash": null,
   "language": "en-us",
   "siNnerMetaData": {
-    "id": "b92160ce-50f1-43ec-af22-6c1d7d6fe676",
+    "id": "2431efc4-1ba6-4abe-a692-ca254fe83431",
     "visibility": {
-      "id": "e3366621-9ead-453e-89b6-66724efde3fb",
+      "id": "6cefd47b-bdaf-4fb2-88a3-e2a492ec7f44",
       "isPublic": true,
       "isGroupVisible": true,
       "userRights": null
@@ -7186,7 +7529,7 @@ Jego tożsamość Mieszko Wiśniewski służy jako szef firmy transportowej w kt
   "id": "7d40152c-8772-46ab-904c-f37e5fb390c2",
   "downloadUrl": null,
   "uploadDateTime": null,
-  "lastChange": "2020-08-13T22:56:28.9391206Z",
+  "lastChange": "2020-08-13T23:47:18.6737856Z",
   "fileName": null
 }</ChummerHub.Client>
   </plugins>
