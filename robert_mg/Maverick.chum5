@@ -938,6 +938,17 @@ Andrzej zdecydował się przenieść ze swoimi umiejętnościami na czarny rynek
         <name>Alcohol</name>
         <type>Interest</type>
       </skill>
+      <skill>
+        <guid>c156d0a3-193a-488d-9813-20a75a07eb53</guid>
+        <suid>907a3a8f-2c40-4543-a5a9-891bcde41f6b</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Language</skillcategory>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <name>English</name>
+        <type>Language</type>
+      </skill>
     </knoskills>
     <skilljackknowledgeskills />
     <groups>
@@ -7452,9 +7463,9 @@ damage. This is not compatible with electroshock.</notes>
   "myHash": null,
   "language": "en-us",
   "siNnerMetaData": {
-    "id": "ccc40778-a86b-452e-904c-ad2425ce7fa0",
+    "id": "cba16d70-e6ea-4f90-a63a-9f737a8f61fe",
     "visibility": {
-      "id": "acc6ee45-9a3f-45b7-a835-6fbe66d438a9",
+      "id": "953ada7c-90dd-4ea7-a355-b4501ba6af7f",
       "isPublic": true,
       "isGroupVisible": true,
       "userRights": null
@@ -7467,7 +7478,7 @@ damage. This is not compatible with electroshock.</notes>
   "id": "7d40152c-8772-46ab-904c-f37e5fb390c2",
   "downloadUrl": null,
   "uploadDateTime": null,
-  "lastChange": "2020-08-14T22:23:07.3149854Z",
+  "lastChange": "2020-08-14T22:30:43.2686298Z",
   "fileName": null
 }</ChummerHub.Client>
   </plugins>
